@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="SPS Files" ExtStr="sps"/>
+	<Folder FolderName="XML Files" ExtStr="xml;xbrl">
+		<File FilePath="Акт осмотра.xml"/>
+	</Folder>
+	<Folder FolderName="XML Schema/DTD Files" ExtStr="xsd;dtd"/>
+	<Folder FolderName="CSS Files" ExtStr="css"/>
+	<Folder FolderName="HTML Files" ExtStr="htm;html;shtm;shtml;xhtm;xhtml"/>
+	<Folder FolderName="Image Files" ExtStr="gif;jpg;png;bmp;tif;wmf;ras;tga;jff;jtf">
+		<File FilePath="АКТ осмотра_01.tif"/>
+	</Folder>
+</Project>

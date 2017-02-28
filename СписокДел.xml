@@ -1,0 +1,3441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskProxyList xmlns="http://www.audatex.com/SAXIF">
+  <TaskProxy>
+    <TaskId>FE941DED-D6A5-013A-C02B-C95356C8B553</TaskId>
+    <CaseId>911217FE-5FD3-ADAB-B3DE-58CCD5095776</CaseId>
+    <ClaimNumber>111111555</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTNBFYFKX03015825</VIN>
+    <AccidentDateTime>2016-12-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>5134 КН 23</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Camry (XV50) 09/11-  [A1]</ModelName>
+    <PolicyNumber>CCC</PolicyNumber>
+    <CreationDate>2017-02-16T16:28:09.830</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B1C676CC-9964-97D5-7FA9-F17B3215A5CF</TaskId>
+    <CaseId>6899B1BA-BA21-83FF-7E62-470C62A2FEDA</CaseId>
+    <ClaimNumber>10-17-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTMDDREV10D078374</VIN>
+    <AccidentDateTime>2016-07-19T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О729РВ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>RAV 4 (ALA/ASA/ZSA (XA) 12/12-  [R4]</ModelName>
+    <PolicyNumber>ЕЕЕ 0333989721</PolicyNumber>
+    <CreationDate>2017-02-12T16:08:47.545</CreationDate>
+    <VehicleOwnerLastName>ОСИПОВ А.И.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>6859FB42-7049-B5A2-C153-EE2EFF308CF8</TaskId>
+    <CaseId>89210270-E7AE-4D35-66A7-F92E214CB3E7</CaseId>
+    <ClaimNumber>336</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF36DRFJF21527039</VIN>
+    <AccidentDateTime>2016-08-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У191ВУ26</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>407 (6D/6E) 01/04- Седан/Универсал [V] [M] [40]</ModelName>
+    <PolicyNumber>CC</PolicyNumber>
+    <CreationDate>2017-02-06T03:28:26.666</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3ACA9B27-0914-77B1-9022-0604AA7F9D83</TaskId>
+    <CaseId>6F091624-B25F-F68D-1019-F3FAA995112E</CaseId>
+    <ClaimNumber>23_12_2016 с</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JF1GDFLH37G073153</VIN>
+    <PlateNumber>B135OO123</PlateNumber>
+    <ManufacturerName>SUBARU [R] [62]</ManufacturerName>
+    <ModelName>Impreza (GD/GG) 10/00-08/07 Сед./Универс [M] [13]</ModelName>
+    <CreationDate>2017-01-31T19:39:53.555</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>98042079-B060-3D99-4643-60D589843E7C</TaskId>
+    <CaseId>3B6F6964-F6C8-C4F6-C9DF-863AA042218E</CaseId>
+    <ClaimNumber>23_12_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JF1GDFLH37G073153</VIN>
+    <PlateNumber>ХХХХХ</PlateNumber>
+    <ManufacturerName>SUBARU [R] [62]</ManufacturerName>
+    <ModelName>Impreza (GD/GG) 10/00-08/07 Сед./Универс [M] [13]</ModelName>
+    <CreationDate>2017-01-31T19:33:16.564</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>55357074-8D10-3F12-E7FE-F1A3E541A7F6</TaskId>
+    <CaseId>5C26BD59-AF3A-2B75-CE97-01E9FEB116AA</CaseId>
+    <ClaimNumber>МБ_с</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2211861A146487</VIN>
+    <AccidentDateTime>2017-01-25T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О706СО123</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>S-Class (W221/V221) 09/05-  [V] [M] [49]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-31T14:02:51.976</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>36707819-0AED-8694-FD1B-8B391CF27A16</TaskId>
+    <CaseId>3EF90558-2583-79F7-A5BF-3F8E8CE22490</CaseId>
+    <ClaimNumber>886_2017</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA11193090092785</VIN>
+    <AccidentDateTime>2016-11-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х598РТ93</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Kalina (1117-1119) 07/06-  [M] [01]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-29T23:25:24.327</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0CDB45AD-693A-4B60-5076-02CE43927D2A</TaskId>
+    <CaseId>D1601867-8BB1-E612-89C5-F41C0D203293</CaseId>
+    <ClaimNumber>885_2017</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SHSRE5850BU012203</VIN>
+    <AccidentDateTime>2016-11-24T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т861АХ123</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>CR-V (RE5, RE6) 01/07-  [M] [57]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-29T22:20:39.392</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8C0B6433-41F0-1280-713D-72C7FD2A5834</TaskId>
+    <CaseId>B9F697EE-6719-2915-4955-589517AC1B53</CaseId>
+    <ClaimNumber>882_2017</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8ZZZ61ZEG028563</VIN>
+    <AccidentDateTime>2016-11-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У088МУ123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Polo Classic/Vento 03/11- Седан [V] [M] [PE]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-29T20:58:43.745</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1870E9DE-536A-1843-E491-2CFA8FB68371</TaskId>
+    <CaseId>5F0798AC-82B0-4E35-4593-1AFD9FB19B70</CaseId>
+    <ClaimNumber>889_2017</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW7BN4FK30S100455</VIN>
+    <AccidentDateTime>2016-12-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Н981ОС123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Camry (XV50) 09/11-  [A1]</ModelName>
+    <PolicyNumber>CC</PolicyNumber>
+    <CreationDate>2017-01-29T18:45:37.288</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>D5CEC21A-0AE0-EACB-76B3-54BCA1D996E9</TaskId>
+    <CaseId>2D305B1D-F997-BC9C-F6F7-D10156B97305</CaseId>
+    <ClaimNumber>8-17-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA219060CY001837</VIN>
+    <AccidentDateTime>2016-07-14T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С432ЕУ123</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Granta (2190) 12/11-  [M] [04]</ModelName>
+    <PolicyNumber>ЕЕЕ 0358527695</PolicyNumber>
+    <CreationDate>2017-01-29T16:18:33.751</CreationDate>
+    <VehicleOwnerLastName>ИЗРАЕЛОВ В.И.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0E1DE56E-ADBE-F5E2-797B-8CC8D99561BA</TaskId>
+    <CaseId>B224E765-9CDD-3AAC-B908-45BB006177C3</CaseId>
+    <ClaimNumber>9-17-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBA8E31010K491474</VIN>
+    <AccidentDateTime>2016-06-16T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н649РО123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (Sedan) (F30N) 07/15-  [V] [AF]</ModelName>
+    <PolicyNumber>ЕЕЕ 0371514430</PolicyNumber>
+    <CreationDate>2017-01-27T17:07:48.566</CreationDate>
+    <VehicleOwnerLastName>УСТЮГОВА Л.В.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>92D351D3-ACDE-BC19-3ED5-A4F74193E7B3</TaskId>
+    <CaseId>1A013EEE-A8F2-2C8C-C85F-137C111CA7A0</CaseId>
+    <ClaimNumber>454</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Х4ХWZ594600Н81082</VIN>
+    <PlateNumber>454</PlateNumber>
+    <CreationDate>2017-01-23T18:26:15.989</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0883CF4F-753C-EEC2-13C2-138CB595702C</TaskId>
+    <CaseId>FE109E7B-DC7A-E7CA-5CBB-66BB1BE33CB6</CaseId>
+    <ClaimNumber>04</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBADT11070GY56381</VIN>
+    <AccidentDateTime>2017-01-22T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В242МУ123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>5-Series (E39) 12/95-07/03 Сед./Универс [V] [M] [30]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-22T23:42:30.137</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A67BFBC4-707F-6420-6222-E66EDDD7F059</TaskId>
+    <CaseId>222A7688-0122-E30B-9F41-D9524FE902F6</CaseId>
+    <ClaimNumber>06</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBANA710X0B606272</VIN>
+    <AccidentDateTime>2015-12-20T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С526ОО123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>5-Series (E60/61) 07/03-02/07 Сед./Универс [V] [M] [15]</ModelName>
+    <PolicyNumber>CC</PolicyNumber>
+    <CreationDate>2017-01-22T19:41:51.577</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>259C4107-F210-59D1-E24B-894CAEDC6FA4</TaskId>
+    <CaseId>DF7BFC71-C087-1B6C-599C-50AF1EBC80C6</CaseId>
+    <ClaimNumber>05</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBAWA51040J009844</VIN>
+    <AccidentDateTime>2016-09-07T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А707ММ93</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series Coup? (E92) 09/06-  [V] [M] [14]</ModelName>
+    <PolicyNumber>СС</PolicyNumber>
+    <CreationDate>2017-01-22T16:50:55.291</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0396B938-15AC-4DA3-AFFA-35E2868CD81F</TaskId>
+    <CaseId>D35B24A8-1F53-A544-DA1E-5E678DEDC274</CaseId>
+    <ClaimNumber>7-16-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X9FWXXEEDW7U23571</VIN>
+    <AccidentDateTime>2016-06-21T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К647АО123,</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus Sedan/Turnier (DB3/DA3) 11/04-12/07  [V] [82]</ModelName>
+    <PolicyNumber>ЕЕЕ 0352623166</PolicyNumber>
+    <CreationDate>2017-01-08T14:20:17.046</CreationDate>
+    <VehicleOwnerLastName>ГЛИНЧАК О.А.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F1B40C5C-40D8-79AA-B7A4-CD518E0650A3</TaskId>
+    <CaseId>21F443B0-934C-C9D5-8D53-DAE1AE820107</CaseId>
+    <ClaimNumber>313_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WAUZZZ8T4DA070887</VIN>
+    <PlateNumber>77НУ 391451</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>A5/S5 Sportback (8T) 08/11-  [V] [M] [58]</ModelName>
+    <CreationDate>2017-01-07T22:02:02.834</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9DEB2744-E5B3-0066-D966-5C08ED36C99E</TaskId>
+    <CaseId>62D99F65-5EAE-C9BF-FC4F-038EFE0E4315</CaseId>
+    <ClaimNumber>5</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WV2ZZZ7HZGH026732</VIN>
+    <AccidentDateTime>2016-04-06T19:40:00.000</AccidentDateTime>
+    <PlateNumber>Т154РС123</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>A5/S5 Sportback (8T) 08/11-  [V] [M] [58]</ModelName>
+    <PolicyNumber>C</PolicyNumber>
+    <CreationDate>2017-01-06T23:35:54.978</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>487ED0EC-3664-E205-A911-F2A1806ADD1C</TaskId>
+    <CaseId>043B0442-293F-6576-8603-F4F0AB0BB9AA</CaseId>
+    <ClaimNumber>6-17-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP6M085811</VIN>
+    <AccidentDateTime>2016-01-14T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В369ЕК123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (MC) 06/06-  [M] [20]</ModelName>
+    <PolicyNumber>ЕЕЕ 0713126136</PolicyNumber>
+    <CreationDate>2017-01-06T10:05:56.680</CreationDate>
+    <VehicleOwnerLastName>МЕЛИКЬЯН Н.Ю.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4AF8B645-3DFA-EA37-8192-609EB98BD1DF</TaskId>
+    <CaseId>C5F39A9A-09F7-8096-2206-5759C0C73630</CaseId>
+    <ClaimNumber>4-17-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X9FHXXEEDHAP13514</VIN>
+    <AccidentDateTime>2016-04-28T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х731ТУ93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus (Sedan/Wagon) (DA3/DB3) 01/08-  [V] [M] [AE]</ModelName>
+    <PolicyNumber>ЕЕЕ 0345810461</PolicyNumber>
+    <CreationDate>2017-01-05T08:08:41.848</CreationDate>
+    <VehicleOwnerLastName>ГАЛАУТДИНОВ В.М.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B13E91B6-4022-2989-DA8D-A99696A7FC67</TaskId>
+    <CaseId>4A79E0AF-0E85-3740-F38F-C598F5FB1569</CaseId>
+    <ClaimNumber>357_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JHMCU26609C231439</VIN>
+    <AccidentDateTime>2016-09-04T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е031СА123</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>Accord (CU1/2/3 CW1/2/3) 07/08-  [26]</ModelName>
+    <PolicyNumber>С</PolicyNumber>
+    <CreationDate>2017-01-04T22:46:39.923</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E64CE743-FB05-9821-D2B7-EBDADF8D7739</TaskId>
+    <CaseId>112A2339-256C-28BB-726C-2633B3912C20</CaseId>
+    <ClaimNumber>356</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWB3K32CDBA224344</VIN>
+    <AccidentDateTime>2016-08-15T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A305HX123</PlateNumber>
+    <PolicyNumber>C</PolicyNumber>
+    <CreationDate>2017-01-04T21:40:21.663</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CF0BE798-8548-45AA-FA70-D3F7F4838226</TaskId>
+    <CaseId>477BCA75-56C1-BA42-BBA6-10FD250AF52D</CaseId>
+    <ClaimNumber>1-16-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2211861A223923</VIN>
+    <AccidentDateTime>2016-03-15T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О999КК197</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>S-Class (W221/V221) 09/05-  [V] [M] [49]</ModelName>
+    <PolicyNumber>ССС 0705039345</PolicyNumber>
+    <CreationDate>2017-01-02T09:55:35.950</CreationDate>
+    <VehicleOwnerLastName>КИРАКОСЯН Г.С.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3E8165B6-F93C-274F-8500-7E3343C19CE2</TaskId>
+    <CaseId>636CFBDB-8988-6710-6116-B99A8FC48FA8</CaseId>
+    <ClaimNumber>819/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XXXXXXXXXXXXXXXXX</VIN>
+    <AccidentDateTime>2016-06-09T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Б/Н</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-12-27T21:11:07.772</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>7113E16D-C624-BAB2-4D53-743206695EA4</TaskId>
+    <CaseId>CE09E305-6F95-FEAE-47CF-BA6447B7E15C</CaseId>
+    <ClaimNumber>879_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JSAJTD54V00262440</VIN>
+    <AccidentDateTime>2016-10-22T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У974РХ123</PlateNumber>
+    <ManufacturerName>SUZUKI [R] [50]</ManufacturerName>
+    <ModelName>Grand Vitara (JT) 10/05-  [M] [56]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-27T20:07:30.892</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3D475EFC-46C6-683D-FEEC-943C2CA141E9</TaskId>
+    <CaseId>88DFE452-DBFF-BC72-79D7-8C1C272EEB1B</CaseId>
+    <ClaimNumber>876_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WP1ZZZ92ZBLA82597</VIN>
+    <AccidentDateTime>2016-09-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>К777УВ93</PlateNumber>
+    <ManufacturerName>PORSCHE [V] [04]</ManufacturerName>
+    <ModelName>Cayenne Replacement (92A) 05/10-  [V] [M] [22]</ModelName>
+    <PolicyNumber>ССС№</PolicyNumber>
+    <CreationDate>2016-12-22T15:37:31.506</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>016918F0-5300-D274-2E5E-813986CA6532</TaskId>
+    <CaseId>6B34AAFB-4123-49AE-0B33-D6F3F9A1D7B5</CaseId>
+    <ClaimNumber>878/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8NTCNS51ES006309</VIN>
+    <AccidentDateTime>2016-10-21T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х091ХХ23</PlateNumber>
+    <ManufacturerName>INFINITI [R] [47]</ManufacturerName>
+    <ModelName>QX70/FX(35/37/50/30d) (S51) 09/09-  [40]</ModelName>
+    <CreationDate>2016-12-22T14:55:38.057</CreationDate>
+    <VehicleOwnerLastName>Алейников Александр Васильевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3ECCD616-94BC-6AA6-AC44-CC11817EB786</TaskId>
+    <CaseId>6C7D4473-8C08-0866-49E3-82D72DBE17DB</CaseId>
+    <ClaimNumber>877_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWFPF2DC1C0028414</VIN>
+    <AccidentDateTime>2016-06-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Н717ХО93</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra GTC Replacement 12/11- Купе/Кабрио [V] [88]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-22T14:07:35.351</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1BA146EC-FC50-821B-4297-A853B7952085</TaskId>
+    <CaseId>EE0E418A-6874-8C40-6D7B-27CC6ED7017B</CaseId>
+    <ClaimNumber>880_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP6M075583</VIN>
+    <AccidentDateTime>2016-12-05T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е895МК123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-20T13:47:09.210</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A8277762-3D8E-4348-54D0-9B54B3AEC98B</TaskId>
+    <CaseId>814D5EB6-4924-887D-7C08-4E783A72CAA1</CaseId>
+    <ClaimNumber>344</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JHMFD36208S202540</VIN>
+    <AccidentDateTime>2016-08-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О030ОР01</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>Civic (FD1, FD3, FD4) 03/06-  [M] [48]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-18T20:07:11.152</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>01C7D5D9-1FA2-A0B3-0D69-6AFC52502CD3</TaskId>
+    <CaseId>D76652EF-1502-B7F5-F6EE-8299DD2251FD</CaseId>
+    <ClaimNumber>350</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF34C5FWC55223956</VIN>
+    <AccidentDateTime>2016-07-17T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т831РХ123</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>308 (4) 10/07-  [V] [M] [48]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-18T13:38:38.573</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E357130E-49D0-8881-DA2B-68FBF8F16015</TaskId>
+    <CaseId>4133EDE5-464C-4CB8-64D3-4470783555B4</CaseId>
+    <ClaimNumber>357</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WAUZZZ8AZLA167349</VIN>
+    <AccidentDateTime>2016-06-24T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т993СР26</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>80 (893/8A2) 09/86-07/91  [V] [24]</ModelName>
+    <PolicyNumber>СС№</PolicyNumber>
+    <CreationDate>2016-12-18T00:12:41.545</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FC010B7D-90CC-C797-DC93-584EDFEE1461</TaskId>
+    <CaseId>73023E94-8F3B-2EA3-614F-A121F0FB65B8</CaseId>
+    <ClaimNumber>349</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBAUA31030VE46015</VIN>
+    <AccidentDateTime>2016-08-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А248АС01</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>1-Series (E81/87) 09/04-  [V] [M] [11]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-17T22:50:00.573</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>983E70D5-0B8A-61E8-AD85-B92F08075A7F</TaskId>
+    <CaseId>C5B3018E-B614-A60A-7926-22E1B14A617B</CaseId>
+    <ClaimNumber>3-16-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>RZJ120-0020296</VIN>
+    <AccidentDateTime>2016-07-27T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О751КХ93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Land Cruiser 120/125/ Prado (KDJ/GRJ 120/125) 09/02-  [M] [82]</ModelName>
+    <PolicyNumber>ЕЕЕ 0720107080</PolicyNumber>
+    <CreationDate>2016-12-13T21:02:01.529</CreationDate>
+    <VehicleOwnerLastName>МАРЧЕНКО А.Н.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>03DC59B9-9A56-C485-904D-A330C487C868</TaskId>
+    <CaseId>3BD85784-17CE-9C0D-B249-7ECFCB38EDD2</CaseId>
+    <ClaimNumber>871_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2016-08-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>-----</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>SA50 - LEAD100 -  [M] [98]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-12-12T00:57:47.661</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3C0B8F38-3DBF-A3A8-28BF-C0BB7841A951</TaskId>
+    <CaseId>607F3D51-83AD-A067-E6C2-3126F6FA7896</CaseId>
+    <ClaimNumber>875_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW7BF4FK50S069853</VIN>
+    <AccidentDateTime>2016-10-07T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М878ОМ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Camry (XV50) 09/11-  [A1]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-11T23:17:34.230</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>796AF642-EB55-5218-E069-F0D4B154EABF</TaskId>
+    <CaseId>617FB797-8C57-718E-76DE-337115DA4E6A</CaseId>
+    <ClaimNumber>874_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMAJU81EBFJ796706</VIN>
+    <AccidentDateTime>2016-10-10T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М393ОУ123</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-12-11T19:34:08.882</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>720490C0-C603-8D15-A7CB-9A82F641A49A</TaskId>
+    <CaseId>380663C3-8A26-78D7-4052-60F569BFD661</CaseId>
+    <ClaimNumber>867_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>3N1FCAC11UK542816</VIN>
+    <AccidentDateTime>2016-09-09T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р668АВ123</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-11T18:43:00.590</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>22DC0D06-BF84-D560-C231-43CBA2701431</TaskId>
+    <CaseId>7566FD3F-B92B-76E6-39B0-8943466EEF9F</CaseId>
+    <ClaimNumber>866_2016_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UMFE108W743379</VIN>
+    <AccidentDateTime>2016-09-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е929КН123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Ranger (ET) 09/06-  [V] [M] [17]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-11T16:54:16.069</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F9006FBC-3471-F266-74F9-27DD43E2F82E</TaskId>
+    <CaseId>B1F305A1-6A9A-AFDA-0F98-C69D6B4B3A10</CaseId>
+    <ClaimNumber>2-16-Ю</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8T4D5FS9CM068759</VIN>
+    <AccidentDateTime>2016-06-18T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н210МС93</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>408 06/10-  [V] [64]</ModelName>
+    <PolicyNumber>ЕЕЕ 0721207493</PolicyNumber>
+    <CreationDate>2016-12-07T17:39:06.781</CreationDate>
+    <VehicleOwnerLastName>ХРАПАЧ З.И.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>82E56160-9C54-0555-87F2-B81BEBCDF906</TaskId>
+    <CaseId>585E4037-50A0-B4DB-365F-64531C1DE12F</CaseId>
+    <ClaimNumber>870/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA211340A4867039</VIN>
+    <AccidentDateTime>2016-08-27T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В103ЕМ123</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Samara II (2113/2114) 01/04-  [26]</ModelName>
+    <CreationDate>2016-12-06T20:39:53.800</CreationDate>
+    <VehicleOwnerLastName>Кременская Юлия Сергеевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B57D8BF0-744E-6C59-35EF-9DAB0833EECC</TaskId>
+    <CaseId>747854EB-B74A-8EA1-ABA0-BE4F2775C481</CaseId>
+    <ClaimNumber>869/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWB4A11CDBA502932</VIN>
+    <AccidentDateTime>2016-11-14T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С784ХТ96</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Matiz (KLYA, M100/150) 09/98-  [M] [05]</ModelName>
+    <CreationDate>2016-12-06T17:56:31.278</CreationDate>
+    <VehicleOwnerLastName>Анфалова Кристина Сергеевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4D57E133-98E5-3739-B654-F7B6BEFADFF4</TaskId>
+    <CaseId>FD86B119-8DA5-185A-63EE-3289716DC1FF</CaseId>
+    <ClaimNumber>294_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTHBK262205060290</VIN>
+    <AccidentDateTime>2016-04-05T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р172КЕ123</PlateNumber>
+    <ManufacturerName>LEXUS [24]</ManufacturerName>
+    <ModelName>IS 250/220 D (ALE20-GSE20) 08/05-  [M] [14]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-12-04T21:20:50.535</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>77C43BE7-6EF5-6284-84F2-A6C9F0C130F5</TaskId>
+    <CaseId>16044116-6085-A8AE-5158-73A2F1F477C1</CaseId>
+    <ClaimNumber>295_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF7UD5FN8CJ511511</VIN>
+    <AccidentDateTime>2016-02-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р518ВС123</PlateNumber>
+    <ManufacturerName>CITROEN [V] [R] [10]</ManufacturerName>
+    <ModelName>C4 Picasso (U) 10/06-  [V] [M] [41]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-04T15:55:41.947</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>862258FD-5431-F5CA-D307-C0E78D7073FB</TaskId>
+    <CaseId>50BBC76D-F7F8-0BCB-A652-8F5C1A6DD34D</CaseId>
+    <ClaimNumber>296_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA217030C0342570</VIN>
+    <AccidentDateTime>2015-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С876АА93</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-12-03T15:49:54.873</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>992B1125-4390-BE6F-CCF6-573B975C0DD4</TaskId>
+    <CaseId>2D1B7433-94BE-EF70-4F29-64A76CA501B3</CaseId>
+    <ClaimNumber>872_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZ3CZCP027537</VIN>
+    <AccidentDateTime>2016-09-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>E563HC123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Passat VII (3C/36) 11/10-  [V] [M] [C2]</ModelName>
+    <PolicyNumber>CC№</PolicyNumber>
+    <CreationDate>2016-12-01T20:15:31.782</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>6A7838F2-4BC9-9710-8E0D-3F47CB574338</TaskId>
+    <CaseId>F0AFFF61-3927-B3CE-D6BE-47E0F72D780A</CaseId>
+    <ClaimNumber>335_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA111740B0098840</VIN>
+    <AccidentDateTime>2016-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В865УС93</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Kalina (1117-1119) 07/06-  [M] [01]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-23T18:20:25.854</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A5432886-1929-59E2-91DC-6211E14BA571</TaskId>
+    <CaseId>9B3D239A-6ADF-535F-2593-A669B8477FF8</CaseId>
+    <ClaimNumber>318</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB2100351B043144</VIN>
+    <AccidentDateTime>2016-09-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х717НН01</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>E-Class (W210/T210) 06/95-02/02 Сед./Универс [V] [M] [15]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-11-22T23:41:31.900</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>14DBEC10-DF65-8D8C-548E-704FE4393ED6</TaskId>
+    <CaseId>81CE00C5-776E-7621-63F5-143E3E1E4DF6</CaseId>
+    <ClaimNumber>286</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTAKS015LD0735234</VIN>
+    <AccidentDateTime>2016-06-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А390МР123</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Largus (R90/F90) 07/12-  [02]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-20T23:27:21.228</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F1B3AE21-D461-1212-9D5E-4597D2A72409</TaskId>
+    <CaseId>74D38161-CD49-F348-8F31-174CBD0AB9DC</CaseId>
+    <ClaimNumber>Q11111</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>U5YPC811BDL347672</VIN>
+    <AccidentDateTime>2016-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>AD99999</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-17T17:38:55.724</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2624D82A-8DE5-43E2-283A-026328C09B58</TaskId>
+    <CaseId>C78A82A3-7C2A-A998-6925-0FDDC7706C77</CaseId>
+    <ClaimNumber>FFDFDFDF</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>U5YPC811BDL347672</VIN>
+    <AccidentDateTime>2016-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>AD99999</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-17T14:03:58.476</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9138BEA2-D369-BABE-38A1-583F7B0495B1</TaskId>
+    <CaseId>8360288F-DB98-8AE7-CABA-434CADE96665</CaseId>
+    <ClaimNumber>868/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8NTANY62CS000952</VIN>
+    <AccidentDateTime>2016-09-05T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С007МО23</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Patrol (Y62) 03/10-  [P5]</ModelName>
+    <PolicyNumber>ЕЕЕ 0369139881</PolicyNumber>
+    <CreationDate>2016-11-14T21:22:43.198</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>646F6B1F-E7A5-FDCD-9FDD-8C85B5775C84</TaskId>
+    <CaseId>0F15C7AE-9CFD-D306-D39B-0A5D194EE767</CaseId>
+    <ClaimNumber>314_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JF1GDALD32G040952</VIN>
+    <AccidentDateTime>2016-07-22T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М100НХ152</PlateNumber>
+    <ManufacturerName>SUBARU [R] [62]</ManufacturerName>
+    <ModelName>Impreza (GD/GG) 10/00-08/07 Сед./Универс [M] [13]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-11-11T00:18:48.157</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8AE4E9CC-C4A5-2CB9-011D-8C972AB408DA</TaskId>
+    <CaseId>613A4962-BB0F-008D-F0DA-1F8959F04DDC</CaseId>
+    <ClaimNumber>317</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8BJ61Z9CK276616</VIN>
+    <AccidentDateTime>2012-06-20T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А005ХО93</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Octavia II (1Z) 01/11- Сед./Универс [V] [M] [21]</ModelName>
+    <PolicyNumber>СС№</PolicyNumber>
+    <CreationDate>2016-11-10T23:05:49.959</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C3036756-82FA-9006-E8A0-DA2D007FA19B</TaskId>
+    <CaseId>31DFB89F-D773-5914-68B5-6FA173564C02</CaseId>
+    <ClaimNumber>866_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8ZZZ61ZDG040995</VIN>
+    <AccidentDateTime>2016-08-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р529КХ123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Polo Classic/Vento 03/11- Седан [V] [M] [PE]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-08T13:44:22.331</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9090A8D6-E5C0-5CD8-FD87-DD75128A6581</TaskId>
+    <CaseId>7A12F8E8-0CF4-1B16-7361-6391ED4E01D1</CaseId>
+    <ClaimNumber>287_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JH2RC55A59R100309</VIN>
+    <AccidentDateTime>2016-08-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>5134 КН 23</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>NC 700 / NC 750 (RC61/63/70/72) 01/13-  [7A]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-05T19:02:42.591</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8B9E0DDC-11A9-8A9E-E2A2-425E7D44758B</TaskId>
+    <CaseId>4BB9199E-35BE-E8EE-7288-56E62556A875</CaseId>
+    <ClaimNumber>285</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z7G2440008S000328</VIN>
+    <AccidentDateTime>2016-06-06T12:00:00.000</AccidentDateTime>
+    <PlateNumber>К779АК102</PlateNumber>
+    <ManufacturerName>FIAT/LANCIA [V] [08]</ManufacturerName>
+    <ModelName>Ducato (244) 03/02-04/06  [M] [24]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-05T13:02:46.705</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>58FB3987-6D6E-E1C2-893B-56F7CDA39349</TaskId>
+    <CaseId>97ABD99F-C53E-A70B-5678-A10A773B867B</CaseId>
+    <ClaimNumber>861_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7LHSRDVN50357860</VIN>
+    <AccidentDateTime>2016-09-01T13:27:00.000</AccidentDateTime>
+    <PlateNumber>Т018ЕР93</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Duster 11/11-  [V] [M] [AA]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-04T20:05:21.808</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9197DCC7-A71A-BBAD-A769-A93CD970C05F</TaskId>
+    <CaseId>FB421DE0-0443-F8A2-2D70-7CF7A9A464C2</CaseId>
+    <ClaimNumber>855_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK14Z28169718</VIN>
+    <AccidentDateTime>2016-08-05T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т752ОА123</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-11-03T20:02:26.235</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>D761F52E-CCB6-667F-4C19-F17FC93377A0</TaskId>
+    <CaseId>6B8DBA15-6685-2DA7-1A8C-843F396D7E21</CaseId>
+    <ClaimNumber>866_016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NZE12115043639111</VIN>
+    <AccidentDateTime>2016-09-27T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У427ВЕ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Corolla (ZZE120/121/CDE1) 10/01- Сед. 4-дверн/Универс. [M] [79]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-30T23:13:53.900</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CA67EB86-266C-4522-4018-DB5E5AA74443</TaskId>
+    <CaseId>DB09D6C0-886B-89CD-AA11-E64F437E886E</CaseId>
+    <ClaimNumber>860_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0PXXWPDP8G53358</VIN>
+    <AccidentDateTime>2016-09-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р862ЕТ123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus II (DA3) 01/08-  [V] [M] [AC]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-30T13:32:11.477</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A009284F-B34F-299D-DFB0-F224DDD8480F</TaskId>
+    <CaseId>CB0B64AA-705A-A533-811B-B0CF821A7858</CaseId>
+    <ClaimNumber>862/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>MMCJNKB40FDZ36508</VIN>
+    <AccidentDateTime>2016-06-13T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О189РВ123</PlateNumber>
+    <CreationDate>2016-10-28T10:38:11.516</CreationDate>
+    <VehicleOwnerLastName>Рогалев Евгений Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DD75A0F1-459F-690B-0055-186604255554</TaskId>
+    <CaseId>C1DA4C29-1F7E-E984-3CAF-31356EE300EB</CaseId>
+    <ClaimNumber>865_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41DBFR454507</VIN>
+    <AccidentDateTime>2016-10-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>K515PK123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Solaris 06/14-  [47]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-27T12:21:05.631</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>83D5D412-DC67-E11B-6F3D-F0014598B30D</TaskId>
+    <CaseId>C4C66459-9115-FE06-BAD3-3359A756BE1A</CaseId>
+    <ClaimNumber>4-16-2</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMAD251BBEJ146902</VIN>
+    <AccidentDateTime>2015-12-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х025НА123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i30 (Hatchback/Coupe/Estate) (GD) 03/12-  [M] [70]</ModelName>
+    <CreationDate>2016-10-25T09:52:28.061</CreationDate>
+    <VehicleOwnerLastName>БЕЛОНОЖКА Г.Н.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E6DA614F-A0A6-ECB1-11AC-6C7E95B69411</TaskId>
+    <CaseId>C6397CAF-6F9E-6478-361A-AFAE56A6C9CB</CaseId>
+    <ClaimNumber>854_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z7G244000BS040017</VIN>
+    <AccidentDateTime>2016-09-05T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т477ВК123</PlateNumber>
+    <ManufacturerName>FIAT/LANCIA [V] [08]</ManufacturerName>
+    <ModelName>Ducato (244) 03/02-04/06  [M] [24]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-10-23T13:47:53.046</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>543E71C9-D8DE-567A-E4A5-EEB3373C1EAB</TaskId>
+    <CaseId>7D9F7804-8607-89AF-B4F5-637129E7F23F</CaseId>
+    <ClaimNumber>4-16-1</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMAD251BBEJ146902</VIN>
+    <AccidentDateTime>2015-12-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х025НА123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i30 (Hatchback/Coupe/Estate) (GD) 03/12-  [M] [70]</ModelName>
+    <CreationDate>2016-10-23T12:06:58.924</CreationDate>
+    <VehicleOwnerLastName>БЕЛОНОЖКА Г.Н.</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>16222C50-D36C-47D4-F12F-9E6BB55007C9</TaskId>
+    <CaseId>7848C4EA-AD1D-0F42-535B-B9F8B6A05958</CaseId>
+    <ClaimNumber>227</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8NBBUJ32AS003789</VIN>
+    <AccidentDateTime>2016-05-19T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О666НО123</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-16T23:51:08.643</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>20B026A6-277F-7747-D4CB-0A3B022D6843</TaskId>
+    <CaseId>1E3D6A0D-429B-3ADA-9EA1-E4BCF68C427D</CaseId>
+    <ClaimNumber>232.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8NBBUJ32CS036647</VIN>
+    <AccidentDateTime>2016-01-27T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А059КУ123</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-16T22:10:53.348</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8314A622-5762-F740-29B9-B3C23A4E3C29</TaskId>
+    <CaseId>220A264B-9333-B477-297E-AC21FF0D77DE</CaseId>
+    <ClaimNumber>231</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X9W215710D0001707</VIN>
+    <AccidentDateTime>2015-05-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В811КМ123</PlateNumber>
+    <ManufacturerName>GEELY [R] [GL]</ManufacturerName>
+    <ModelName>Emgrand 7/ EC7/ EC7-RV (SD/HB) (FE 1-2) 01/10-  [05]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-16T19:26:58.204</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A5A6C572-2447-BE13-F94F-476E41279F8A</TaskId>
+    <CaseId>0193C167-EFBE-2807-25DD-2D9AF8F6CECD</CaseId>
+    <ClaimNumber>Мицубиси</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>MMCJNKB40FDZ36508</VIN>
+    <PlateNumber>О189РВ123</PlateNumber>
+    <CreationDate>2016-10-16T19:14:34.541</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5DEB3BD4-42D3-BCA2-6513-1219542B844B</TaskId>
+    <CaseId>C56F4EE1-9E34-52F1-9173-E61896396558</CaseId>
+    <ClaimNumber>P814</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWFPD2DC1D0021201</VIN>
+    <AccidentDateTime>2016-08-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>P814MX123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra GTC Replacement 12/11- Купе/Кабрио [V] [88]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-13T13:14:10.996</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2BD2AF5F-26DA-65FD-D13B-ABDD27C8C952</TaskId>
+    <CaseId>B1EC1D97-E7EB-D382-A233-89C94095186D</CaseId>
+    <ClaimNumber>859</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7LBSRB2HBH380010</VIN>
+    <AccidentDateTime>2016-08-31T12:00:00.000</AccidentDateTime>
+    <PlateNumber>К506АВ93</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Sandero (BS) 12/07-  [V] [M] [85]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-13T01:06:42.568</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FF7BEEAD-C93B-5B73-32DC-DC9D8C3BA021</TaskId>
+    <CaseId>28561055-58F3-B8A4-0162-7259511B7CB1</CaseId>
+    <ClaimNumber>C860</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>U5YFF24229L142574</VIN>
+    <AccidentDateTime>2016-09-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>C860OT55</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Cee'd (ED) 10/06-  [M] [25]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-12T23:52:53.380</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>81D85575-3D28-FF5D-C459-2FB6279C16C1</TaskId>
+    <CaseId>A78A3440-483E-1BF5-8E98-99B74D237A78</CaseId>
+    <ClaimNumber>Nissan</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JN1CAAN16Z0057382</VIN>
+    <PlateNumber>O399УТ93</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-12T21:04:27.261</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>34B24EEF-D27C-71CA-B620-E341F0F1C6B5</TaskId>
+    <CaseId>9B89461B-49A3-2EDB-381E-143E7F134408</CaseId>
+    <ClaimNumber>848/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF36DRFJF21617184</VIN>
+    <AccidentDateTime>2016-07-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A407EE123</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>407 (6D/6E) 01/04- Седан/Универсал [V] [M] [40]</ModelName>
+    <PolicyNumber>C№</PolicyNumber>
+    <CreationDate>2016-10-11T13:04:57.979</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B50CBFB0-126B-594D-096B-E5A440B94FFA</TaskId>
+    <CaseId>128F751F-AB56-6757-5D35-E2050429E5DA</CaseId>
+    <ClaimNumber>230_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHDH41DBCU353068</VIN>
+    <AccidentDateTime>2016-03-28T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С464МК123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i35/Avante/ Elantra (MD) 01/11-  [M] [32]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-09T20:28:44.303</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9F01A33C-4B7E-D1E5-0111-702981B34FCA</TaskId>
+    <CaseId>977A32A8-84A2-9E46-ABA9-E4F4D10DD5AE</CaseId>
+    <ClaimNumber>229_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7LHSRH8550472800</VIN>
+    <AccidentDateTime>2016-01-17T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В638НТ123</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Duster 11/11-  [V] [M] [AA]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-09T18:17:05.902</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DCFFD9EE-E679-0191-F5AB-CC2E4E1B27C9</TaskId>
+    <CaseId>7F26200A-AC49-9A1C-6F80-FB9E28EB0B1F</CaseId>
+    <ClaimNumber>228</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUVDC14B170005062</VIN>
+    <AccidentDateTime>2016-04-07T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М439НН93</PlateNumber>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-10-09T16:09:15.231</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F2767EFC-DCDD-680C-08A2-EB0ECFD5B2FC</TaskId>
+    <CaseId>CE623C55-8CC2-0474-66DF-B59D59DAA029</CaseId>
+    <ClaimNumber>267_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2211561A181894</VIN>
+    <AccidentDateTime>2016-07-19T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Н362МТ77</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>S-Class (W221/V221) 09/05-  [V] [M] [49]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-09T15:49:22.879</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A4DAF678-3138-0F8A-4258-9B5E8F956FD5</TaskId>
+    <CaseId>955D993C-F2D2-87BF-6275-5ED07FF3171F</CaseId>
+    <ClaimNumber>268_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X9FHXXEEDHAA32478</VIN>
+    <AccidentDateTime>2016-08-02T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У252АА123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus (Sedan/Wagon) (DA3/DB3) 01/08-  [V] [M] [AE]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-10-09T15:15:12.792</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B693EAF7-250A-3AA2-156C-FBA4A2003694</TaskId>
+    <CaseId>CE327B71-6A7F-590C-71A7-E910C73B25CF</CaseId>
+    <ClaimNumber>270</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWFPD2D11C0019523</VIN>
+    <AccidentDateTime>2016-05-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р548ЕС123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra GTC Replacement 12/11- Купе/Кабрио [V] [88]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-09T14:23:13.136</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8D942ECC-8B4F-CC9E-9554-C6FB9D2394C7</TaskId>
+    <CaseId>B0758632-9AED-38CF-5B4A-3CEF9E9887A5</CaseId>
+    <ClaimNumber>255_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WB10D0106DZF92976</VIN>
+    <AccidentDateTime>2016-06-09T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Н/У</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>S 1000RR (K46/507) 06/09-  [V] [M] [M1]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-10-08T20:12:34.694</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C8664E3D-E90E-8D05-61B5-1C1CFF1CD126</TaskId>
+    <CaseId>02770A5B-7AF8-FE7D-EEB0-4A2EA0639960</CaseId>
+    <ClaimNumber>269_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WOL0AHL0895019718</VIN>
+    <AccidentDateTime>2016-07-20T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О140ВА123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra H (GTC/OPC) 03/05-  [V] [61]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-10-08T19:09:39.496</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>227CC440-DCEA-A11B-FC13-8B634C990FD9</TaskId>
+    <CaseId>7869D0F6-A327-6445-F432-34102616BB3B</CaseId>
+    <ClaimNumber>M435</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTARS0Y5LF0882450</VIN>
+    <PlateNumber>M435PK123</PlateNumber>
+    <CreationDate>2016-10-05T19:52:45.443</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A6E08D46-85DF-1B25-85F0-6B12D2FE5412</TaskId>
+    <CaseId>57A30E91-8358-34DC-17F5-8F5DC4305EA5</CaseId>
+    <ClaimNumber>853_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KL1SF48DJ9B693173</VIN>
+    <AccidentDateTime>2016-07-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е159СХ01</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Aveo Replacement (KLAS) 03/08-  [V] [M] [25]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-10-04T23:42:59.304</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2FF4391E-0922-BE01-0478-615F9C92F830</TaskId>
+    <CaseId>34B1DD69-E2A2-5D71-3009-82139FFDB81B</CaseId>
+    <ClaimNumber>852/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4X3A19400J673499</VIN>
+    <AccidentDateTime>2016-08-19T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е500ТР93</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (F30) 03/12- Сед./Купе [V] [M] [AC]</ModelName>
+    <CreationDate>2016-10-04T21:20:37.400</CreationDate>
+    <VehicleOwnerLastName>Чунаев Сергей Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>84C8B234-7CB1-AB3B-2967-588BBA8F3F9D</TaskId>
+    <CaseId>A11CF509-2A31-D508-69FB-7FD205AFEB39</CaseId>
+    <ClaimNumber>857_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTNBV58E202045108</VIN>
+    <AccidentDateTime>2016-08-22T12:00:00.000</AccidentDateTime>
+    <PlateNumber>K727PH123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Corolla Sedan (E15) 11/06-  [M] [AE]</ModelName>
+    <PolicyNumber>CCC№555</PolicyNumber>
+    <CreationDate>2016-10-02T21:35:06.946</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3F9B7079-515C-5194-F421-1D695E189740</TaskId>
+    <CaseId>01C480A9-7AAD-0488-D5F7-04FCAF9DE72B</CaseId>
+    <ClaimNumber>253_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF1BZAR0548855010</VIN>
+    <AccidentDateTime>2016-06-24T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В415НК123</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Megane Generation 07/10-  [V] [98]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-02T19:58:26.737</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4DC0F70E-3A95-C4A0-BE15-DDCA0C0674DA</TaskId>
+    <CaseId>E2088645-F461-7D3A-566A-1E31E56E2279</CaseId>
+    <ClaimNumber>256_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>GD11053368XXXXXXX</VIN>
+    <AccidentDateTime>2016-06-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С664ОС161</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-02T19:06:40.575</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>40FEE9BF-2022-0632-BF0A-1EFF25039F5D</TaskId>
+    <CaseId>832836C7-BCE2-CF17-CC8E-E8F538AD54B2</CaseId>
+    <ClaimNumber>254_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUF0AHL699B001965</VIN>
+    <AccidentDateTime>2016-06-30T12:00:00.000</AccidentDateTime>
+    <PlateNumber>К876СВ123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra H (4-door) 07/07- Седан 4-дверный [V] [M] [84]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-10-02T18:11:45.837</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>357F7F1D-A5DE-E08D-42A3-06EF496E26BB</TaskId>
+    <CaseId>904727F2-ED47-3382-85AD-64AE3028E4F9</CaseId>
+    <ClaimNumber>258,</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41DBDR238239</VIN>
+    <AccidentDateTime>2016-05-27T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е948ХС77</PlateNumber>
+    <PolicyNumber>cc№</PolicyNumber>
+    <CreationDate>2016-10-02T17:28:40.871</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>BB1D0F2F-5384-A059-5CCC-3D9D500B89C7</TaskId>
+    <CaseId>85F1000F-63E6-1566-DB04-4C8A57A47F99</CaseId>
+    <ClaimNumber>259_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMADB51DBBJ173506</VIN>
+    <AccidentDateTime>2016-03-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У009УС93</PlateNumber>
+    <PolicyNumber>TMADB51DBBJ173506</PolicyNumber>
+    <CreationDate>2016-10-02T15:59:50.698</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3CB06E82-9437-FC2E-84A9-6474FE86AF00</TaskId>
+    <CaseId>3F68A165-CD5F-50C3-C27F-44B40CE0EB9F</CaseId>
+    <ClaimNumber>252_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XLRAD85XC0E676070</VIN>
+    <AccidentDateTime>2016-03-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О268АХ123</PlateNumber>
+    <ManufacturerName>DAF [61]</ManufacturerName>
+    <ModelName>Serie XF105 01/06-  [M] [15]</ModelName>
+    <CreationDate>2016-09-24T13:29:28.788</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8300EF39-A4CA-DFE6-6F8A-D0F035701D08</TaskId>
+    <CaseId>DC4B975F-C865-F63C-3D2D-BBC534BFBE40</CaseId>
+    <ClaimNumber>247_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB2100351B043144</VIN>
+    <AccidentDateTime>2016-09-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х717НН01</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>E-Class (W210/T210) 06/95-02/02 Сед./Универс [V] [M] [15]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-09-23T15:58:02.897</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4AFBCF13-6E46-737F-3915-423713CC1F08</TaskId>
+    <CaseId>7A94CF9E-5D8F-276E-A770-80768A81C697</CaseId>
+    <ClaimNumber>258_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4XZV41160L816851</VIN>
+    <AccidentDateTime>2016-06-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р111РУ23</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>X5 (E70) 01/07-  [V] [M] [46]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-09-23T13:04:41.805</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B1FC086A-68A5-3254-52F7-494E6C07D75F</TaskId>
+    <CaseId>537F4D53-5989-500F-F4FC-D1171FD87D68</CaseId>
+    <ClaimNumber>839_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>LGJEFE29FM315470</VIN>
+    <PlateNumber>B181PB123</PlateNumber>
+    <CreationDate>2016-09-20T12:24:01.296</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>32BB7639-7405-D948-84B6-33159E2AA1F2</TaskId>
+    <CaseId>C6722D31-64ED-254A-8522-008A0977ED72</CaseId>
+    <ClaimNumber>197.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWB5V319DEA563230</VIN>
+    <AccidentDateTime>2016-04-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A593HX123</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-18T17:27:06.968</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>72A73534-1911-11DA-A9C0-333F1C0D66A2</TaskId>
+    <CaseId>9142CDA3-6183-B859-E9D8-9627F289793C</CaseId>
+    <ClaimNumber>198</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWKFB227280076052</VIN>
+    <AccidentDateTime>2016-04-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Е951ЕМ123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Spectra/Shuma II (FB) 06/00-  [M] [13]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-16T13:38:40.541</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>60125DCF-9FE6-C2D6-D5D4-B9FE89B66275</TaskId>
+    <CaseId>FCF3FE01-676E-C1D6-7EA1-3BCAC8EB0CF7</CaseId>
+    <ClaimNumber>y704</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF36DRFJF21511184</VIN>
+    <AccidentDateTime>2016-07-22T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Y704MH123</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>407 (6D/6E) 01/04- Седан/Универсал [V] [M] [40]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-15T12:39:12.947</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>14933074-5202-75A6-5336-D5CC74D427E2</TaskId>
+    <CaseId>B33E0464-47A4-5B58-FEBF-9677661C89A8</CaseId>
+    <ClaimNumber>OPEL</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWFPF2DC1D0010973</VIN>
+    <PlateNumber>C093CA123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra GTC Replacement 12/11- Купе/Кабрио [V] [88]</ModelName>
+    <CreationDate>2016-09-15T12:02:09.744</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DBB55462-F0D0-1FDE-22F2-BF204B57711C</TaskId>
+    <CaseId>00CF494A-242F-17CE-FF9E-F661562EB139</CaseId>
+    <ClaimNumber>o165</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8TNDNFP0EM022168</VIN>
+    <AccidentDateTime>2016-09-02T12:00:00.000</AccidentDateTime>
+    <PlateNumber>O165OM123</PlateNumber>
+    <ManufacturerName>CITROEN [V] [R] [10]</ManufacturerName>
+    <ModelName>C4 L 12/12-  [V] [CL]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-14T19:13:45.810</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>79A4B5B7-7716-1326-12F3-65A60E569D6D</TaskId>
+    <CaseId>17DFC9C0-CA2C-B2D9-6AFD-7CB88F1FD55D</CaseId>
+    <ClaimNumber>840_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0SDL6884196861</VIN>
+    <AccidentDateTime>2016-07-25T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М234АС123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Corsa D 10/06-  [V] [M] [85]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-09-13T15:17:25.807</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>947444E2-C87F-1120-8DBD-640969F859A9</TaskId>
+    <CaseId>D12904E3-599E-453C-DF99-5323807F8EAF</CaseId>
+    <ClaimNumber>842_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWEHN512BD0006089</VIN>
+    <AccidentDateTime>2016-07-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В575КК123</PlateNumber>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-09-13T14:48:26.130</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B7A98773-57B8-37D8-094C-6164BE06994C</TaskId>
+    <CaseId>05F9DCB7-BF5D-4D94-DB73-433563A97567</CaseId>
+    <ClaimNumber>СПАРК</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWBMA481JEA508371</VIN>
+    <AccidentDateTime>2014-09-21T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К447НО123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Spark/Beat (KL1M (M300)) 03/10-  [V] [M] [32]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-09-13T13:36:37.098</CreationDate>
+    <VehicleOwnerLastName>Халявин</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>730CE687-BE2C-F9E1-BE1F-FB8B53DB0979</TaskId>
+    <CaseId>3E35B02A-AC2E-920C-C6C0-BA997707B17C</CaseId>
+    <ClaimNumber>838_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>PD8WX0007204XXXXX</VIN>
+    <AccidentDateTime>2016-07-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т475КО123</PlateNumber>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-12T22:19:57.671</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2FF76069-C531-26C6-01DD-3E6E2ECB1B42</TaskId>
+    <CaseId>CC45E04F-AD2D-9468-EC8B-AA20385AFC21</CaseId>
+    <ClaimNumber>843/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CB41AAFR234980</VIN>
+    <AccidentDateTime>2016-07-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>E812OB123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Rio III (Rus) 06/11-  [34]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-12T20:57:46.691</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B4C1E1A0-88A0-CB39-8781-A62C9E169BD8</TaskId>
+    <CaseId>BEB248A8-BF11-1669-E781-14FB2D237E51</CaseId>
+    <ClaimNumber>849/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDC2049811F279381</VIN>
+    <AccidentDateTime>2016-07-18T00:00:00.000</AccidentDateTime>
+    <PlateNumber>А005ХТ93</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>GLK (X204) 06/08-  [V] [M] [86]</ModelName>
+    <CreationDate>2016-09-12T18:44:06.748</CreationDate>
+    <VehicleOwnerLastName>Ситников Николай Николаевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>AF043E2E-E2FD-55C4-E517-3A63F72EA782</TaskId>
+    <CaseId>EF56B690-D7FA-D08A-0037-19381BF8C4EF</CaseId>
+    <ClaimNumber>226</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4XZW41180L826066</VIN>
+    <AccidentDateTime>2016-04-18T12:00:00.000</AccidentDateTime>
+    <PlateNumber>C111AB93</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>X5 (E70) 01/07-  [V] [M] [46]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-12T11:35:35.813</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3C51F1AD-DC25-9435-5A1F-1583BE097DDD</TaskId>
+    <CaseId>FB9894A6-8200-3B46-C083-D34A119BF7C6</CaseId>
+    <ClaimNumber>192_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB1400571A245901</VIN>
+    <AccidentDateTime>2016-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В232РВ123</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>300 SE - 600 SEL (140) 03/91-10/98 Сед./Купе [V] [38]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-11T16:50:43.893</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F9A8B6C7-4DDD-F49D-6657-A92239924F5D</TaskId>
+    <CaseId>57F3D186-6FDA-2CF3-332D-204068C853BA</CaseId>
+    <ClaimNumber>847/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8DC15J5AK504268</VIN>
+    <AccidentDateTime>2016-09-03T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т214СВ93</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Fabia II (54) 12/06-  [V] [M] [18]</ModelName>
+    <CreationDate>2016-09-08T23:19:20.051</CreationDate>
+    <VehicleOwnerLastName>Крыжко Алена Сергеевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>BD506959-0D5E-2841-24DE-605A8EB0F5B9</TaskId>
+    <CaseId>1ADF623D-A23D-FF43-EB6F-DD11BD650DD8</CaseId>
+    <ClaimNumber>837_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UXXGAJU8G00554</VIN>
+    <AccidentDateTime>2016-09-04T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A826МУ93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fusion (JU2) 06/02-  [V] [M] [65]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-04T17:53:42.308</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CF0FD930-832D-F0BF-3F24-23EB9CD32FCA</TaskId>
+    <CaseId>FFDC085F-21F9-874E-89C7-6BEA9F290110</CaseId>
+    <ClaimNumber>836_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WAUZZZ4G9CN042423</VIN>
+    <AccidentDateTime>2016-07-03T12:00:00.000</AccidentDateTime>
+    <PlateNumber>O985AC123</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>A6/S6 (4G) 03/11-  [V] [M] [22]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-04T14:10:30.823</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0AC67302-5203-E773-B092-DE7E0EB2012F</TaskId>
+    <CaseId>98CA42A7-2011-B5AC-9DD9-656E0AE179F8</CaseId>
+    <ClaimNumber>E377</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB2110701A234242</VIN>
+    <AccidentDateTime>2016-04-27T12:00:00.000</AccidentDateTime>
+    <PlateNumber>E377AK ABH</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>E-Class (W211) 03/02- Сед. 3-/5-дверн [V] [M] [41]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-09-03T16:43:28.060</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>487495C5-90AC-80EC-045F-EB4AA53EEF52</TaskId>
+    <CaseId>B51F0901-5AD6-E7E8-43B8-4B547FFF5620</CaseId>
+    <ClaimNumber>E733</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SB1BR56L60E200501</VIN>
+    <AccidentDateTime>2016-07-25T12:00:00.000</AccidentDateTime>
+    <PlateNumber>E733CP93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Avensis (T25) 01/03- Сед./Универс. [M] [81]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-31T16:50:16.127</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4FD771DC-9D76-7C16-C9E4-BE8E352EF678</TaskId>
+    <CaseId>E827A916-E184-A4C0-2023-E348093486A7</CaseId>
+    <ClaimNumber>A101</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBAEH11040CN17641</VIN>
+    <AccidentDateTime>2016-08-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A101PK123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>6-Series (E63/64) 12/03- Купе/Кабрио [V] [M] [39]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-30T17:24:11.149</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>64F4E172-100C-F767-1BF6-1503E040030F</TaskId>
+    <CaseId>3AF9BE82-5454-A63E-1FDE-CED8F4953EE1</CaseId>
+    <ClaimNumber>X645</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>J3100000000000000</VIN>
+    <AccidentDateTime>2016-07-30T12:00:00.000</AccidentDateTime>
+    <PlateNumber>X645МУ93</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Teana (B16) 10/04-01/09  [M] [91]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-08-22T11:24:20.175</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>6681BE48-2373-7B5D-1537-40DA99BC5D67</TaskId>
+    <CaseId>00191329-BC5E-BEA1-399E-9FA7D4961398</CaseId>
+    <ClaimNumber>K934</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMBXNGA1WBZ002265</VIN>
+    <AccidentDateTime>2016-07-28T12:00:00.000</AccidentDateTime>
+    <PlateNumber>K934TC93</PlateNumber>
+    <ManufacturerName>MITSUBISHI [R] [32]</ManufacturerName>
+    <ModelName>ASX 06/10-  [M] [78]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-19T18:58:36.374</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>7D44A78C-FE12-9532-D610-BD04B79DB6D2</TaskId>
+    <CaseId>8BDF2C31-25A6-49F1-6B6A-4D3C070EC027</CaseId>
+    <ClaimNumber>Toyota Avensis</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SB1BG76L30E048209</VIN>
+    <AccidentDateTime>2016-07-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>T070AA93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Avensis (T27) 01/09-  [M] [AN]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-10T16:02:38.776</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A2D4053A-F86D-96CA-45B9-AEC4833D99B1</TaskId>
+    <CaseId>54F46376-F6FB-AED8-B44E-4928C55A5539</CaseId>
+    <ClaimNumber>187_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41CABR03908</VIN>
+    <AccidentDateTime>2016-04-18T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М708АР123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Solaris/ Accent (RB) 01/11-  [M] [37]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-08-10T00:46:29.392</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>240595A2-0F18-A648-BEF1-E98E133BAE62</TaskId>
+    <CaseId>5599F1C9-D5FC-A946-D518-996F8D5733C3</CaseId>
+    <ClaimNumber>185_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF32AKFWR5W011379</VIN>
+    <AccidentDateTime>2016-04-25T12:00:00.000</AccidentDateTime>
+    <PlateNumber>У308ХР93</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>206 (2A/2C/2H/2J/2S) 03/03-  [V] [M] [37]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-08-09T22:40:53.206</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>11B07160-DA9E-0B20-434B-A961B9FE01D7</TaskId>
+    <CaseId>9D8178A6-8B38-BEE8-83A8-04CD9ADD8529</CaseId>
+    <ClaimNumber>183_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2120341B063487</VIN>
+    <AccidentDateTime>2016-02-17T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В621ВВ64</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>E-Class Sedan (212) 04/13-  [V] [EE]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-08-09T20:15:59.624</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>13673AD2-6D47-6582-AA1F-7D15B446C8CA</TaskId>
+    <CaseId>816D6E6A-3BEC-838E-B2DA-7B0DA0A7E9FD</CaseId>
+    <ClaimNumber>183</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2120341B063487</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В621ВВ64</PlateNumber>
+    <CreationDate>2016-08-09T20:09:26.497</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>479C7651-CAE4-E937-90A2-0765723034E9</TaskId>
+    <CaseId>767C709F-2498-BB3C-7E91-B8EE540CF615</CaseId>
+    <ClaimNumber>184_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBAVD11060AV05742</VIN>
+    <AccidentDateTime>2016-05-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С228НР123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (E90/91) 03/05-08/08  [V] [M] [12]</ModelName>
+    <CreationDate>2016-08-09T15:29:38.669</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>7BE2EFBF-F814-8C43-1FB4-55D7DC9F7269</TaskId>
+    <CaseId>87A38EE1-3358-D307-8F0B-C837CB75BCE6</CaseId>
+    <ClaimNumber>B900</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>YV1CM855671392966</VIN>
+    <AccidentDateTime>2016-05-11T12:00:00.000</AccidentDateTime>
+    <PlateNumber>B900TK24</PlateNumber>
+    <ManufacturerName>VOLVO [V] [R] [41]</ManufacturerName>
+    <ModelName>XC 90 (C) 06/02-  [V] [M] [24]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-08T22:13:10.070</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>542A76E0-C3B5-8DBD-FC2D-31653A6A3BD5</TaskId>
+    <CaseId>79B01B57-F9AA-B8A8-4F7E-817D48704D17</CaseId>
+    <ClaimNumber>825_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NM0C92T20D8A69471</VIN>
+    <AccidentDateTime>2016-05-29T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О359АА93</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>Atego S/L-FHS (BM967) 12/13-  [V] [6A]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-07T20:30:47.756</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3F1E3747-EC89-3E8C-E3E8-23290BD6404B</TaskId>
+    <CaseId>A953D514-2DC0-06E4-FC45-6B0883C1791E</CaseId>
+    <ClaimNumber>824/216.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0XXXTTFXAL56414</VIN>
+    <AccidentDateTime>2016-06-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р446РТ123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Transit (TT9) 05/06-  [V] [M] [19]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-04T22:20:11.058</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9A693412-55DA-A6B0-90F6-C7969F89CD5B</TaskId>
+    <CaseId>4D03C621-D8F6-79C0-DF07-AF8E00074E4F</CaseId>
+    <ClaimNumber>824/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0XXXTTFXAL56414</VIN>
+    <AccidentDateTime>2016-06-16T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р446РТ123</PlateNumber>
+    <CreationDate>2016-08-04T21:10:44.117</CreationDate>
+    <VehicleOwnerLastName>Проворов Игорь Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1919328B-1C2D-B17C-7479-6D2EB24536DD</TaskId>
+    <CaseId>51902532-99E7-07A7-0F8F-A44D14F4E5F9</CaseId>
+    <ClaimNumber>Форд К864</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF04XXGBB46S60830</VIN>
+    <AccidentDateTime>2016-06-28T12:00:00.000</AccidentDateTime>
+    <PlateNumber>К864СТ199</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Mondeo (B4Y/B5Y/BWY) 09/00-04/07  [V] [M] [95]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-08-02T11:08:03.246</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FDD731F2-A21C-3184-0F21-0E76773F6B17</TaskId>
+    <CaseId>028E7106-412C-FA5C-91E5-D5BC23ABDEE1</CaseId>
+    <ClaimNumber>Хундай А551</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHDG41CBDUB15701</VIN>
+    <AccidentDateTime>2016-07-17T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А551МО123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i35/Avante/ Elantra (MD) 01/11-  [M] [32]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-08-01T10:54:04.960</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>10F727AC-A322-4240-3D00-A2F50B459229</TaskId>
+    <CaseId>F8F59984-0F49-173E-F2DC-1DC70CD5ABAD</CaseId>
+    <ClaimNumber>Хундай Х939</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41DBFR482912</VIN>
+    <AccidentDateTime>2016-07-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х939PP123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Solaris 06/14-  [47]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-08-01T10:27:41.269</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>83D28029-06BF-0329-8A15-197FF724305D</TaskId>
+    <CaseId>AEB5F0B3-C1FB-9E48-2F37-60D1AF9163DF</CaseId>
+    <ClaimNumber>BMW H474</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBANT110X0CV95016</VIN>
+    <AccidentDateTime>2016-07-28T12:00:00.000</AccidentDateTime>
+    <PlateNumber>H474BM123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>5-Series (E60/61) 03/07- Сед./Универс [V] [M] [45]</ModelName>
+    <PolicyNumber>№</PolicyNumber>
+    <CreationDate>2016-08-01T10:01:05.991</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A6D417CF-6B6A-0664-109A-8132F5F4A3A6</TaskId>
+    <CaseId>C1EF74BA-4FCB-C64E-0B61-366FBF8DEDEB</CaseId>
+    <ClaimNumber>ПЕЖО А336</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF33CRFNC83096443</VIN>
+    <AccidentDateTime>2016-07-13T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А336УУ126</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>307 (3A/3C) 04/01- Сед. 3-/5-дверн [V] [32]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-08-01T09:41:46.421</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E94672D5-2BB2-1418-1CE0-12A4013EF8D4</TaskId>
+    <CaseId>73D509FA-510A-FC13-297E-66CEEE082161</CaseId>
+    <ClaimNumber>ПЕЖО Х383</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8T4C5FS9CM007897</VIN>
+    <AccidentDateTime>2016-07-24T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х383РУ123</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>308 (4) 10/07-  [V] [M] [48]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-08-01T09:00:11.966</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>26E9A1F4-B39E-8F5C-67FA-A7E56223911B</TaskId>
+    <CaseId>B126E2CA-E4BB-73C6-30A6-A64FC3D63931</CaseId>
+    <ClaimNumber>81</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW7BF4FK90S063215</VIN>
+    <PlateNumber>М004КА93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Camry (XV50) 09/11-  [A1]</ModelName>
+    <CreationDate>2016-07-31T23:17:57.186</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>89F25C4D-CA4E-FF01-9C45-3B8FC80A785D</TaskId>
+    <CaseId>3CE857CB-14A3-6989-572D-E5741CCEA8B5</CaseId>
+    <ClaimNumber>155..</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0AHL4855068944</VIN>
+    <AccidentDateTime>2016-02-19T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А051ТА97</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra H 03/04- Хетчбек/Универ [V] [58]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-07-31T18:05:18.991</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>6CF7805E-7ADD-B53B-5047-BEF280841204</TaskId>
+    <CaseId>2328DD8E-FD5F-3E9D-EF62-75E32E3135E8</CaseId>
+    <ClaimNumber>155_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0AHL4855068944</VIN>
+    <AccidentDateTime>2016-02-13T00:00:00.000</AccidentDateTime>
+    <PlateNumber>А051ТА97</PlateNumber>
+    <CreationDate>2016-07-31T18:01:40.469</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3464F80F-F79A-658B-D01F-58DBE15FE613</TaskId>
+    <CaseId>EAD590FC-1AFE-4D08-7C19-94DF99F3E8CC</CaseId>
+    <ClaimNumber>154</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUUSF63D9B0019585</VIN>
+    <AccidentDateTime>2016-03-25T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е112ХТ93</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Aveo (Gentra) (KLAS (T250)) 06/06-  [V] [M] [15]</ModelName>
+    <CreationDate>2016-07-31T16:55:58.599</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>586BEAE9-6DAF-1103-E9B3-130E84C8A1A8</TaskId>
+    <CaseId>DD74EBA9-8D9F-6398-85E0-75270AF4B7C1</CaseId>
+    <ClaimNumber>153_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NMTBB9JEX0R003503</VIN>
+    <AccidentDateTime>2016-01-23T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М010ЕМ93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Corolla (4-doors) (NDE180-NRE180-Z) 06/13-  [AW]</ModelName>
+    <CreationDate>2016-07-31T15:29:52.167</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CAA2E407-79D2-A5D2-3E45-C78B5CE55E57</TaskId>
+    <CaseId>8D875A82-21E9-86AB-6F6B-982A2EED375B</CaseId>
+    <ClaimNumber>М828</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK14F681616724</VIN>
+    <AccidentDateTime>2016-07-14T12:00:00.000</AccidentDateTime>
+    <PlateNumber>М828КР123</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-07-29T00:13:35.332</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C55DF88B-EE51-9D3B-A980-A97E05581AA3</TaskId>
+    <CaseId>5597BA50-A76D-482C-5FD1-6E5C353C3631</CaseId>
+    <ClaimNumber>152_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD2040311A823721</VIN>
+    <AccidentDateTime>2016-02-25T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х015ТР93</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>C-Class (204) 03/11-  [V] [M] [AL]</ModelName>
+    <CreationDate>2016-07-28T22:19:25.741</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>13FE1307-D514-57DD-6C9B-FC6C8D353A74</TaskId>
+    <CaseId>DFFC3348-FBA2-F43C-1378-2A2678EEEE26</CaseId>
+    <ClaimNumber>139-1</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SJNFBNJ10U2929117</VIN>
+    <AccidentDateTime>2016-01-18T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р774НС123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Qashqai (J10E) 12/06-  [M] [92]</ModelName>
+    <CreationDate>2016-07-25T23:57:32.195</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0B0B9981-A9D9-3132-4102-9D7030E9E4E4</TaskId>
+    <CaseId>D140430A-ABB5-DEC5-7CC5-016F2A00580E</CaseId>
+    <ClaimNumber>AUDI</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WWWZZZ11111111111</VIN>
+    <AccidentDateTime>2016-06-10T12:00:00.000</AccidentDateTime>
+    <PlateNumber>A131PA123</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>A6/S6/RS6 (4B) 06/01-03/04 Сед./Универс [V] [M] [39]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-07-25T19:50:31.907</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>423CA3B9-F895-87C6-F582-5243C258B390</TaskId>
+    <CaseId>98231CFA-C045-06F6-FCC8-98BB7338ED73</CaseId>
+    <ClaimNumber>BMW</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBA5C31060D043745</VIN>
+    <PlateNumber>H650CY161</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>5-Series (F10) 07/13-  [V] [4A]</ModelName>
+    <CreationDate>2016-07-25T19:22:27.431</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>52DB4E0A-BFEC-4FEF-1B3F-FF654A2B2B4F</TaskId>
+    <CaseId>155C1A6F-D3E3-64A0-8162-72CD21BF1E4E</CaseId>
+    <ClaimNumber>BMW X1</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBA1A31050E930090</VIN>
+    <PlateNumber>Б/Н</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>1-Series Replacement (F20) 09/11-  [V] [M] [1A]</ModelName>
+    <CreationDate>2016-07-24T13:58:55.918</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9FA2928A-EC32-F1E1-4957-2CF4D67B244D</TaskId>
+    <CaseId>0968AFB3-028F-DDF0-3185-6D1E199F14D8</CaseId>
+    <ClaimNumber>78</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8ZZZ61ZFG040456</VIN>
+    <AccidentDateTime>2016-07-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Н566ОУ123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Polo Classic/Vento 03/11- Седан [V] [M] [PE]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-07-23T19:39:16.547</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DA4E7B5F-51B3-1C37-A209-08D615A65ACC</TaskId>
+    <CaseId>A8EEFF3B-CC28-F9FF-DADF-9728573307B0</CaseId>
+    <ClaimNumber>T852</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SJNBCAP11U0095016</VIN>
+    <AccidentDateTime>2016-01-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>T852КУ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Primera (P11) 10/96-03/02 Сед./Traveller [33]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-07-23T17:14:03.505</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A3FF1F29-AD5A-6D2E-F548-3F0FC6A439C4</TaskId>
+    <CaseId>647B4393-1D42-AFC7-643F-6DAB52ABEBB4</CaseId>
+    <ClaimNumber>REAL CITY</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z7EU3FBHR80000025</VIN>
+    <PlateNumber>C015HC123</PlateNumber>
+    <ManufacturerName>UNIVERSAL [90]</ManufacturerName>
+    <ModelName>Автобусы (городские/загородные) -  [20]</ModelName>
+    <CreationDate>2016-07-22T01:09:42.596</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A26FA3D7-B572-3E5B-F768-7281359798EB</TaskId>
+    <CaseId>392DB141-C274-07C3-B02D-E073ABA9400D</CaseId>
+    <ClaimNumber>166</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHEC41BBCA488179</VIN>
+    <AccidentDateTime>2014-11-04T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е975КК123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i45/Sonata/Sonata i45 (YF) 01/11-  [M] [86]</ModelName>
+    <CreationDate>2016-07-18T20:40:24.329</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>EBB2F11E-1654-CD90-EC3F-3FE4FD45B4DA</TaskId>
+    <CaseId>B9677F89-6B5F-D48F-D6EA-5CB079D9DDE4</CaseId>
+    <ClaimNumber>Солярис</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41DBDR273488</VIN>
+    <AccidentDateTime>2016-06-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О893НК123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Solaris/ Accent (RB) 01/11-  [M] [37]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-07-18T14:42:14.467</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4FF7D907-4A79-01F6-F00D-09D3B82E11E5</TaskId>
+    <CaseId>37DF036C-7896-F683-3F6A-CD769E6796E3</CaseId>
+    <ClaimNumber>Mazda B</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>4F4YR12DX3TM03413</VIN>
+    <AccidentDateTime>2016-06-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А799АХ123</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>B-Серия 11/98-  [M] [56]</ModelName>
+    <PolicyNumber>№</PolicyNumber>
+    <CreationDate>2016-07-17T22:50:08.798</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DA694B41-2DF3-30CD-4DCE-D82EB032F736</TaskId>
+    <CaseId>F66BF030-EA6B-1022-7451-B8AE1CC8C3B8</CaseId>
+    <ClaimNumber>Бадалов</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8NAJL01050451308</VIN>
+    <AccidentDateTime>2016-06-02T00:00:00.000</AccidentDateTime>
+    <PlateNumber>H128НУ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Almera Sedan (RUS) (G15RA) 01/12-  [AS]</ModelName>
+    <PolicyNumber>CCC№</PolicyNumber>
+    <CreationDate>2016-07-15T21:37:18.623</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2948EDDF-EFD2-D1F9-8170-76CD250E7966</TaskId>
+    <CaseId>13CEAA70-64A2-4F78-1A7C-07714D3921BA</CaseId>
+    <ClaimNumber>КОЗОРЕЗ</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JHMCL96806C209114</VIN>
+    <AccidentDateTime>2016-07-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>H737OX161</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>Accord (CL7/9/CM1/2/CN1) 01/03-  [M] [77]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-07-14T07:58:13.630</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B906D635-F5DF-769D-D501-3D9DD83CF647</TaskId>
+    <CaseId>2B88EC40-8E5A-5DBB-91D6-E915D29ABA3C</CaseId>
+    <ClaimNumber>822/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CB41AAGR284628</VIN>
+    <AccidentDateTime>2016-06-16T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В829РВ123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Rio III (Rus) 06/11-  [34]</ModelName>
+    <CreationDate>2016-07-07T17:27:14.202</CreationDate>
+    <VehicleOwnerLastName>Шакитько Игорь Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>87747336-E548-DE4D-7472-83B748997B18</TaskId>
+    <CaseId>07E1C681-78C9-AE02-56AF-07E561CC9B29</CaseId>
+    <ClaimNumber>832/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZEK14Z551150487</VIN>
+    <AccidentDateTime>2016-06-27T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М797НХ123</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <CreationDate>2016-07-07T16:03:41.089</CreationDate>
+    <VehicleOwnerLastName>Скляров Иван Николаевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C19EB681-63FA-C2BE-CBF8-DAA0F6FF6D4C</TaskId>
+    <CaseId>7AAEB2EB-6893-8410-07C5-F4058DCF28A1</CaseId>
+    <ClaimNumber>821/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP8M151915</VIN>
+    <AccidentDateTime>2016-05-19T12:00:00.000</AccidentDateTime>
+    <PlateNumber>B466TX93</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-07-07T14:54:59.131</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2031106D-A744-F2FF-E5A2-DB3F6BEFC728</TaskId>
+    <CaseId>47D9B125-5662-3764-5BF6-BEA076DE6639</CaseId>
+    <ClaimNumber>Тойота РАВ</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTMBH31V705037398</VIN>
+    <AccidentDateTime>2016-06-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С727НЕ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>RAV 4 (XA3) 11/05-  [M] [96]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-07-05T12:54:29.633</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>6F4A68BA-7940-3E81-F132-20A36154A911</TaskId>
+    <CaseId>984B977B-AECD-4B64-F805-205F4C178234</CaseId>
+    <ClaimNumber>820/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X9W214813B0017979</VIN>
+    <AccidentDateTime>2016-06-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К701ВВ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Corolla (ZZE120/121/CDE1) 10/01- Сед. 4-дверн/Универс. [M] [79]</ModelName>
+    <CreationDate>2016-07-05T11:46:44.424</CreationDate>
+    <VehicleOwnerLastName>Ветер Александр Игоревич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5D4B9490-AAD2-F4C8-C6D7-5DAC284EB672</TaskId>
+    <CaseId>B6C937D5-9849-98CF-0C23-3B87D83922A4</CaseId>
+    <ClaimNumber>K06/01</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0AHL0875169661</VIN>
+    <AccidentDateTime>2016-06-27T15:30:00.000</AccidentDateTime>
+    <PlateNumber>P123HH123</PlateNumber>
+    <PolicyNumber>CCC№5549826480</PolicyNumber>
+    <CreationDate>2016-06-30T23:40:30.771</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FBAB1596-BDE1-BD29-6A0C-FB342D4D37A3</TaskId>
+    <CaseId>85DB9650-1B08-8E44-7CE5-5F70DA9DC6BB</CaseId>
+    <ClaimNumber>147</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB2201751A215032</VIN>
+    <AccidentDateTime>2016-02-06T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С779КА01</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>S-Class S 280 - S 600 (220) 11/98-  [V] [M] [40]</ModelName>
+    <CreationDate>2016-06-29T19:16:46.750</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3A7E6E5C-D779-6F3E-8871-FC0254B1A3C7</TaskId>
+    <CaseId>2A89EAF7-ADF5-E697-D5EE-BC87EAF1D42B</CaseId>
+    <ClaimNumber>148_ОСАГО</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UXXGAJU7M11153</VIN>
+    <AccidentDateTime>2015-12-24T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т883НХ93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fusion (JU2) 06/02-  [V] [M] [65]</ModelName>
+    <PolicyNumber>ССС№</PolicyNumber>
+    <CreationDate>2016-06-29T15:51:37.960</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3AF1F261-82F6-97F9-7B47-3740781B5EA2</TaskId>
+    <CaseId>1596E5D2-A276-B397-59F8-F428769F04DD</CaseId>
+    <ClaimNumber>148</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UXXGAJU7M11153</VIN>
+    <AccidentDateTime>2015-12-24T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т883НХ93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fusion (JU2) 06/02-  [V] [M] [65]</ModelName>
+    <CreationDate>2016-06-29T15:26:36.381</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9E448880-4E62-FDF0-FD9B-056281A395AA</TaskId>
+    <CaseId>FB75DE12-92CC-0DE0-C082-560B0B33309D</CaseId>
+    <ClaimNumber>H515PP</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8CA41Z69K150988</VIN>
+    <AccidentDateTime>2016-06-18T12:00:00.000</AccidentDateTime>
+    <PlateNumber>H515PP93</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Octavia II (1Z) 04/04- Сед. 3-/5-дверн [V] [M] [11]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-06-26T14:25:40.631</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>916F8A10-6289-E357-E8B4-E6F76FA856EF</TaskId>
+    <CaseId>378EFFBE-5ABE-4B28-44DA-571ABF222F26</CaseId>
+    <ClaimNumber>817/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JTMBE31V90D092000</VIN>
+    <AccidentDateTime>2016-06-08T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х898РХ96</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>RAV 4 (XA3) 11/05-  [M] [96]</ModelName>
+    <CreationDate>2016-06-24T17:26:50.131</CreationDate>
+    <VehicleOwnerLastName>Дорошенко Иван Васильевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A94160EF-602C-8ABC-4455-85B78EACF82D</TaskId>
+    <CaseId>087ABF87-05AC-C00D-D94D-CA92FC95C129</CaseId>
+    <ClaimNumber>Ford</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z6FKXXEEBKEG84538</VIN>
+    <PlateNumber>K125OY123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus III (DYB) 01/11-  [V] [M] [C1]</ModelName>
+    <CreationDate>2016-06-23T15:27:26.584</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2B57F937-6143-2F2C-D0AE-C382647CA49E</TaskId>
+    <CaseId>213FC059-FCE1-2CD6-1294-8A151C4A7A1F</CaseId>
+    <ClaimNumber>123</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UXXGAJU7C20672</VIN>
+    <AccidentDateTime>2016-03-23T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т160НК123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fusion (JU2) 06/02-  [V] [M] [65]</ModelName>
+    <CreationDate>2016-06-23T11:33:37.517</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>ECFCE790-FB3A-5672-1127-9C4102F069F5</TaskId>
+    <CaseId>835FC916-6647-A4EE-FBA9-489F598A22E9</CaseId>
+    <ClaimNumber>128_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0UXXGAJU7C20672</VIN>
+    <AccidentDateTime>2016-03-23T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т160НК123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fusion (JU2) 06/02-  [V] [M] [65]</ModelName>
+    <CreationDate>2016-06-21T22:21:05.544</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FFE31124-2132-DA00-D8A7-FBEF2987AA7D</TaskId>
+    <CaseId>65F3E997-B38E-B194-C056-35A9C6B3A43E</CaseId>
+    <ClaimNumber>114_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>отсутствует</VIN>
+    <AccidentDateTime>2016-02-09T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В154РВ123</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Yaris/Vitz (XP130) (KSP/NSP) 11/10-  [AK]</ModelName>
+    <CreationDate>2016-06-15T21:28:33.770</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>D07CBD3D-7CEE-7EDF-28FC-258835C9DD93</TaskId>
+    <CaseId>406AF3CE-DDF6-7265-CD85-852110A585AD</CaseId>
+    <ClaimNumber>113.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8CA41Z5DK239928</VIN>
+    <AccidentDateTime>2016-02-09T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р564КО123</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Octavia II (1Z) 01/11- Сед./Универс [V] [M] [21]</ModelName>
+    <CreationDate>2016-06-15T09:52:09.705</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4FD2D41B-42A8-AD16-44E8-8390F25BB891</TaskId>
+    <CaseId>F6452DCD-DAC9-AAEA-D9AD-9AA38A34C0C2</CaseId>
+    <ClaimNumber>814/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NLAFD76708W002736</VIN>
+    <AccidentDateTime>2016-04-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х449МР93</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>Civic (FD1, FD3, FD4) 03/06-  [M] [48]</ModelName>
+    <CreationDate>2016-06-14T16:14:15.253</CreationDate>
+    <VehicleOwnerLastName>Яковенко Виктор Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>78322E17-A439-A32D-DCEA-00D1E2E0120C</TaskId>
+    <CaseId>BB5CBE92-2B9E-B691-84CF-EEFB2252BBAD</CaseId>
+    <ClaimNumber>807/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHWH81KAGU771613</VIN>
+    <AccidentDateTime>2016-03-10T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М093РО123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>H-1/H300/i800/Statex (TQ) 08/07-  [M] [63]</ModelName>
+    <CreationDate>2016-06-14T12:50:35.843</CreationDate>
+    <VehicleOwnerLastName>ОП "ГАЗСТРОЙ-БЕЗОПАСНОСТЬ"</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>64AA80C0-6F0F-5CB8-F885-59C0E3AAA309</TaskId>
+    <CaseId>C94C1713-DE07-845B-D069-DB3FC78F272B</CaseId>
+    <ClaimNumber>111</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NZE121-0163795</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К807МА93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Corolla (ZZE120/121/CDE1) 10/01- Сед. 4-дверн/Универс. [M] [79]</ModelName>
+    <CreationDate>2016-06-10T10:16:14.315</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0FC79413-686E-CE74-07B8-141DB51C3983</TaskId>
+    <CaseId>A73D9E82-EF0E-1A52-CFE9-A265D2ABC562</CaseId>
+    <ClaimNumber>110</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8EC45JXEK510328</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т895ОО116</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Fabia II (54) 04/10-  [V] [M] [28]</ModelName>
+    <CreationDate>2016-06-09T23:04:12.310</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>24D4B138-9CA2-ACB7-DA57-72256F22A83B</TaskId>
+    <CaseId>A002CEC3-34F4-CCEE-9FBB-FD170949A17D</CaseId>
+    <ClaimNumber>109</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUFJA696JB3041176</VIN>
+    <AccidentDateTime>2016-01-22T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С662ОО123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Cruze (KL1J) 05/09-  [V] [M] [1C]</ModelName>
+    <CreationDate>2016-06-09T21:47:47.405</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B9486F94-15F8-BB47-6A1F-36BE4A38AE46</TaskId>
+    <CaseId>0E94E6A1-2249-0B72-7894-006B6F62530F</CaseId>
+    <ClaimNumber>815/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XLRTE47MS0E859470</VIN>
+    <AccidentDateTime>2016-06-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>У497ВУ123</PlateNumber>
+    <ManufacturerName>DAF [61]</ManufacturerName>
+    <ModelName>Serie XF105 01/06-  [M] [15]</ModelName>
+    <CreationDate>2016-06-08T22:41:07.539</CreationDate>
+    <VehicleOwnerLastName>Семенко Владимир Анатольевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>429CDFF0-877B-A639-93F1-3DBDE350851A</TaskId>
+    <CaseId>4821A6B7-60BA-C941-F6C1-A42D2D8408CF</CaseId>
+    <ClaimNumber>816/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBA1A31050E930090</VIN>
+    <AccidentDateTime>2016-06-04T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М500ХТ93</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>1-Series Replacement (F20) 09/11-  [V] [M] [1A]</ModelName>
+    <CreationDate>2016-06-08T21:42:46.328</CreationDate>
+    <VehicleOwnerLastName>Максимов Марк Геннадьевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>345CA23B-57BE-8709-2930-CCC363AFE72F</TaskId>
+    <CaseId>A6694746-4EA7-9F89-A89A-06ED9F96EB2E</CaseId>
+    <ClaimNumber>93_ОСАГО</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD1760421J125520</VIN>
+    <AccidentDateTime>2015-08-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О255РВ123</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>A-Class (176) 10/12-  [V] [A2]</ModelName>
+    <PolicyNumber>ССС№</PolicyNumber>
+    <CreationDate>2016-06-07T23:31:35.049</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A33A0D14-BC9C-99F7-1466-42B674889B19</TaskId>
+    <CaseId>1DC51EC1-F54B-9EA4-B28A-E30C5913CFCD</CaseId>
+    <ClaimNumber>91</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>4MZSX03D573400868</VIN>
+    <AccidentDateTime>2015-11-28T00:00:00.000</AccidentDateTime>
+    <PlateNumber>6585 КО 23</PlateNumber>
+    <ManufacturerName>HARLEY DAVIDSON [89]</ManufacturerName>
+    <ModelName>Softail Models (FXS/FLS) (FXS/FLS) 01/99-  [80]</ModelName>
+    <CreationDate>2016-06-07T20:48:32.791</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FCD4E0BC-B400-49C7-86DA-A780E9C6F7E8</TaskId>
+    <CaseId>E163AD92-C40A-A268-F753-6F5A0A32E64A</CaseId>
+    <ClaimNumber>112_</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>CCC№</PolicyNumber>
+    <CreationDate>2016-06-06T11:59:58.695</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>350168F7-19B9-A2A6-FDD1-5DA90E8FFD2E</TaskId>
+    <CaseId>F615C0AF-F71C-6EC2-A5A8-BF6BD45B1E7D</CaseId>
+    <ClaimNumber>813/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>NM0C922T2008A6947</VIN>
+    <AccidentDateTime>2016-05-29T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О359АА93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <PolicyNumber>ЕЕЕ 0711728485</PolicyNumber>
+    <CreationDate>2016-06-06T00:08:14.485</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A42413A1-4F04-96EE-0009-77B8548062BE</TaskId>
+    <CaseId>4EA944EC-577B-3FCF-2936-0A26BB9CD132</CaseId>
+    <ClaimNumber>812/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBAHM210X0DS63555</VIN>
+    <AccidentDateTime>2016-01-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Т889МТ750</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>7-Series (E65/66) 09/01-  [V] [M] [35]</ModelName>
+    <PolicyNumber>СС№8768768</PolicyNumber>
+    <CreationDate>2016-06-05T21:37:37.419</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>80AC9A36-55C9-3A92-C2D6-E0A78B1074C2</TaskId>
+    <CaseId>9113CC7C-229A-8217-D805-C410B4779298</CaseId>
+    <ClaimNumber>811/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP5M049014</VIN>
+    <AccidentDateTime>2016-04-25T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Р971ВЕ93</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <PolicyNumber>ЕЕЕ 0345708451</PolicyNumber>
+    <CreationDate>2016-06-05T19:53:17.437</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FC621E2F-C3C8-DACA-6112-3B1A6837C8AB</TaskId>
+    <CaseId>39068F3B-282E-FCCB-5176-C0AA05853135</CaseId>
+    <ClaimNumber>810_206</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP8A185616</VIN>
+    <AccidentDateTime>2016-05-10T12:00:00.000</AccidentDateTime>
+    <PlateNumber>О118НС123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <PolicyNumber>ccc№</PolicyNumber>
+    <CreationDate>2016-06-01T13:53:32.419</CreationDate>
+    <VehicleOwnerLastName>Кулиева Галина Назимовна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4D3D93A2-57E0-C67C-6B2B-711565BBD7E3</TaskId>
+    <CaseId>A160E3FA-07A9-0A74-6DD4-51D8CD57721F</CaseId>
+    <ClaimNumber>810/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP8A185616</VIN>
+    <AccidentDateTime>2016-04-10T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О118НС123</PlateNumber>
+    <CreationDate>2016-06-01T13:43:50.369</CreationDate>
+    <VehicleOwnerLastName>Кулиева Галина Назимовна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>56BBD8D1-D073-FD72-C8FE-D7B0C4C9FAA5</TaskId>
+    <CaseId>F4F70AE5-060C-A52F-8CEA-032B157396E8</CaseId>
+    <ClaimNumber>809</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMBSNE52ATZ001953</VIN>
+    <AccidentDateTime>2016-05-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>M868MC93</PlateNumber>
+    <ManufacturerName>MITSUBISHI [R] [32]</ManufacturerName>
+    <ModelName>Galant (E50) 03/93-12/96 Хетчбек-/Седан [24]</ModelName>
+    <PolicyNumber>CCC№</PolicyNumber>
+    <CreationDate>2016-06-01T11:48:58.529</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>7DE53325-5A5F-E310-314E-5AFC3C28B650</TaskId>
+    <CaseId>468474DD-36A5-B16B-45C5-DF6B2D1BFBDF</CaseId>
+    <ClaimNumber>808/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JN1CAAN16Z0056868</VIN>
+    <AccidentDateTime>2016-05-16T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С923ВХ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Almera (N16/N16E) 02/00-  [M] [34]</ModelName>
+    <CreationDate>2016-06-01T11:23:47.358</CreationDate>
+    <VehicleOwnerLastName>Ушкалов Кирилл Сергеевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C3839CAB-0FEF-09CA-15EF-87DF7056607A</TaskId>
+    <CaseId>3FFF2993-73EC-9210-59DD-6F11B361C9AF</CaseId>
+    <ClaimNumber>K05/01</ClaimNumber>
+    <TaskStatus>Unlocked</TaskStatus>
+    <VIN>KMHJN81DP7U715055</VIN>
+    <PlateNumber>B817KX123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Tucson (JM) 04/04-03/10  [M] [42]</ModelName>
+    <CreationDate>2016-05-26T22:00:01.243</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>BD42C2C7-0D6E-880A-28E2-12356B03C0AE</TaskId>
+    <CaseId>854F341B-8AAA-C9F3-742D-AA337DAEF543</CaseId>
+    <ClaimNumber>800/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWBMA481JEA508371</VIN>
+    <AccidentDateTime>2016-01-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К447НО123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Spark/Beat (KL1M (M300)) 03/10-  [V] [M] [32]</ModelName>
+    <CreationDate>2016-05-23T00:07:35.787</CreationDate>
+    <VehicleOwnerLastName>Халявин Олег Леонидович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>108C75B4-1538-13B5-9D5F-D597F07AD029</TaskId>
+    <CaseId>7F3130CC-DA1F-FD9C-6070-3A913A7BBF01</CaseId>
+    <ClaimNumber>801/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWB3L32EDCA241140</VIN>
+    <AccidentDateTime>2016-03-18T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М980ОУ123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Nexia II (N150) 01/08-  [17]</ModelName>
+    <CreationDate>2016-05-22T23:07:10.041</CreationDate>
+    <VehicleOwnerLastName>Халявин Олег Леонидович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>35281607-26DF-D3E6-AE8C-D207ACB76E38</TaskId>
+    <CaseId>1D7605E5-DDC2-4357-E3AE-275EA1EDE674</CaseId>
+    <ClaimNumber>806/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4X3C39460P684302</VIN>
+    <AccidentDateTime>2016-05-14T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е848ОН123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (F30) 03/12- Сед./Купе [V] [M] [AC]</ModelName>
+    <CreationDate>2016-05-22T21:40:23.729</CreationDate>
+    <VehicleOwnerLastName>Кропотов Евгений Германович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>EC0464B3-94F8-6CDA-1DB0-BE41A9DBD4ED</TaskId>
+    <CaseId>3DF69526-4747-AEE0-26FC-C60D91C7FADF</CaseId>
+    <ClaimNumber>3332333</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VF34C5FWC55164188</VIN>
+    <PlateNumber>42224</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>308 (4) 10/07-  [V] [M] [48]</ModelName>
+    <CreationDate>2016-05-21T11:20:07.690</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>67B3FB5F-8719-F0D6-ABED-D4C8295264F4</TaskId>
+    <CaseId>137DB394-0353-8B16-8620-EF5B0EA6159C</CaseId>
+    <ClaimNumber>47457</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD1760421J125520</VIN>
+    <PlateNumber>P1111PP</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>A-Class (176) 10/12-  [V] [A2]</ModelName>
+    <CreationDate>2016-05-18T14:17:59.266</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F5B0864B-E99D-CD97-2757-1EC72285F705</TaskId>
+    <CaseId>65BAE6E8-D787-D2CF-C378-59ECAE9E6722</CaseId>
+    <ClaimNumber>Субару</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>RC1054147XXXXXXXX</VIN>
+    <PlateNumber>Х871НО123</PlateNumber>
+    <ManufacturerName>SUBARU [R] [62]</ManufacturerName>
+    <ModelName>Justy G3X (J12) 09/03-  [M] [45]</ModelName>
+    <CreationDate>2016-05-16T21:40:41.685</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0AB5FEB9-CD4D-9A49-5890-9F25DD01E4B2</TaskId>
+    <CaseId>16EBA00E-EC9B-5043-876B-E874E0D3817F</CaseId>
+    <ClaimNumber>92</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>E11X010128XXXXXXX</VIN>
+    <AccidentDateTime>2016-05-15T12:00:00.000</AccidentDateTime>
+    <PlateNumber>А400СА134</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Note (E11) 01/06-  [M] [61]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-05-15T17:41:19.345</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F0633062-5E08-31BF-E3FB-68137F860A76</TaskId>
+    <CaseId>8E7A402B-A316-691F-0DC5-8F93CCA242BB</CaseId>
+    <ClaimNumber>93</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDD1760421J125520</VIN>
+    <AccidentDateTime>2015-08-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О255РВ123</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>A-Class (176) 10/12-  [V] [A2]</ModelName>
+    <CreationDate>2016-05-15T16:03:06.869</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>326203A6-037F-877F-9F21-D23219D2A767</TaskId>
+    <CaseId>C8AE0A51-7089-33CD-59B1-E8D7A00A3C1C</CaseId>
+    <ClaimNumber>90</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>VFIBZAR0545701891</VIN>
+    <AccidentDateTime>2015-12-30T00:00:00.000</AccidentDateTime>
+    <PlateNumber>ВВ1356СВ</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Megane Generation 07/10-  [V] [98]</ModelName>
+    <CreationDate>2016-05-15T12:21:29.530</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9F99B2FA-4611-7DE6-C932-B1B2ECE691C7</TaskId>
+    <CaseId>FA9A44F8-1F22-39A7-D9C6-6173359720BA</CaseId>
+    <ClaimNumber>88.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZAUZDW149470</VIN>
+    <AccidentDateTime>2016-01-19T00:00:00.000</AccidentDateTime>
+    <PlateNumber>В790МК123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Golf VII (AU/5G) 08/12-  [V] [B1]</ModelName>
+    <CreationDate>2016-05-10T12:19:07.883</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>150962C7-63C0-5133-EF2F-127FFD30FC3B</TaskId>
+    <CaseId>C5CBB478-C8B7-BF0B-DC6C-2D9441788770</CaseId>
+    <ClaimNumber>84</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XW8CA41Z9CK289083</VIN>
+    <AccidentDateTime>2016-01-29T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р822РО01</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Octavia II (1Z) 01/11- Сед./Универс [V] [M] [21]</ModelName>
+    <CreationDate>2016-05-08T22:08:34.660</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5B2A63A4-66CC-3E70-F6E1-B74535C03A7F</TaskId>
+    <CaseId>3EE27388-E232-38E3-D9AC-4044BBD2151F</CaseId>
+    <ClaimNumber>805/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZ3CZ8P020341</VIN>
+    <AccidentDateTime>2016-04-28T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х666ТО93</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Passat (3C) 05/07-  [V] [M] [68]</ModelName>
+    <CreationDate>2016-05-05T22:13:07.454</CreationDate>
+    <VehicleOwnerLastName>Гречко Степан Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F7B09AD4-FDB3-8AB3-61B5-853B920B0219</TaskId>
+    <CaseId>9AB4B5A7-FE74-D6AB-7895-321F5411D787</CaseId>
+    <ClaimNumber>75</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0AHL0865197409</VIN>
+    <AccidentDateTime>2015-12-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>K318HP123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra H (GTC/OPC) 03/05-  [V] [61]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-04-30T19:34:53.920</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>05A6C86D-16A7-13AE-510A-6C3BFB5F53B0</TaskId>
+    <CaseId>4B2509EF-49DA-9750-F5C9-9F90DE9E4873</CaseId>
+    <ClaimNumber>85</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB2201651A229048</VIN>
+    <AccidentDateTime>2016-02-20T18:00:00.000</AccidentDateTime>
+    <PlateNumber>P600ВМ116</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>S-Class S 280 - S 600 (220) 11/98-  [V] [M] [40]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-04-30T17:11:09.825</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E7E547CA-0868-9963-0873-7704300DE42B</TaskId>
+    <CaseId>819F46D2-9F6A-973B-C4DA-B274AF96516C</CaseId>
+    <ClaimNumber>804/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4X3C39460P684302</VIN>
+    <AccidentDateTime>2016-04-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е848ОН123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (F30) 03/12- Сед./Купе [V] [M] [AC]</ModelName>
+    <CreationDate>2016-04-28T12:39:17.001</CreationDate>
+    <VehicleOwnerLastName>Кропотов Евгений Германович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>EF88F3C5-DD04-DEB8-91B7-6853E499C73E</TaskId>
+    <CaseId>C0F42F35-E71E-2AC7-05EC-439A549C60A3</CaseId>
+    <ClaimNumber>803/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z6FDXXECKDGB14107</VIN>
+    <AccidentDateTime>2016-04-05T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М733РС123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Fiesta (JA8/CCN) 11/12-  [V] [XJ]</ModelName>
+    <CreationDate>2016-04-26T13:48:56.931</CreationDate>
+    <VehicleOwnerLastName>Мостовая Татьяна Валентиновна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>27BA0DDE-F9FC-49D0-6381-8956CD21EF6D</TaskId>
+    <CaseId>B683F623-440F-4684-1ACA-B5C4C40F4734</CaseId>
+    <ClaimNumber>760/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTE110220N0142943</VIN>
+    <AccidentDateTime>2015-10-06T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р228ОЕ23</PlateNumber>
+    <CreationDate>2016-04-26T13:48:45.701</CreationDate>
+    <VehicleOwnerLastName>Карпенко Светлана Геннадьевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C9B371E5-A7E4-2E83-6C9A-6A1B2F80A2EA</TaskId>
+    <CaseId>C745EC69-2E73-CFE5-4D83-412A45D2B72D</CaseId>
+    <ClaimNumber>ОСАГО 798/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WV2ZZZ2KZ8X085556</VIN>
+    <AccidentDateTime>2016-04-11T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р973МР93</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Caddy III (2KA/2KB) 02/04- Фургон/Универс./Mixto [V] [M] [79]</ModelName>
+    <PolicyNumber>ССС№</PolicyNumber>
+    <CreationDate>2016-04-26T00:23:51.270</CreationDate>
+    <VehicleOwnerLastName>Кристев Василий Дмитриевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>029944B0-3F93-7B0C-1E1D-71DE1670D467</TaskId>
+    <CaseId>A3F13316-6A46-9AD7-17FF-0FC933C4FD14</CaseId>
+    <ClaimNumber>798/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WV2ZZZ2KZ8X085556</VIN>
+    <AccidentDateTime>2016-04-11T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р973МР93</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Caddy III (2KA/2KB) 02/04- Фургон/Универс./Mixto [V] [M] [79]</ModelName>
+    <CreationDate>2016-04-25T23:48:33.586</CreationDate>
+    <VehicleOwnerLastName>Кристев Василий Дмитриевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>DBA699BD-AB0D-EBFA-2371-27F93418926F</TaskId>
+    <CaseId>47621235-EDB8-6577-E896-606849485DF5</CaseId>
+    <ClaimNumber>74.</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWB4B11EDDA528418</VIN>
+    <AccidentDateTime>2015-12-03T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М722НК123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Matiz (KLYA, M100/150) 09/98-  [M] [05]</ModelName>
+    <CreationDate>2016-04-24T16:18:24.179</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>13007366-9EF7-39CD-8969-BB9366E59679</TaskId>
+    <CaseId>DCBDDDD6-509D-205A-770C-BE89D6042E2C</CaseId>
+    <ClaimNumber>794_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDBRN40J73A493939</VIN>
+    <PlateNumber>Х878УС93</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>C-Class (W203) 01/01-03/07 Купе/Кабрио [V] [M] [25]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-04-14T22:20:13.985</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>8BB62493-3737-86ED-CAF5-F5C1316440A7</TaskId>
+    <CaseId>C280D762-5A7C-81A8-4C7F-F25A755C2A30</CaseId>
+    <ClaimNumber>797_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WAUZZZ8R5CA018574</VIN>
+    <AccidentDateTime>2015-10-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С114НР161</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>Q5 (8R) 08/08-  [V] [M] [15]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-04-13T22:14:19.523</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>4B275C57-7974-1CA4-3331-F8A1416EB5B4</TaskId>
+    <CaseId>58F1E4CB-28D7-3B26-0FB5-51352D5699D3</CaseId>
+    <ClaimNumber>802/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WBA3N11000K304461</VIN>
+    <AccidentDateTime>2016-03-24T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р043ОО123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>4-Series Coupe (F32) 10/13-  [V] [43]</ModelName>
+    <CreationDate>2016-04-13T20:47:04.378</CreationDate>
+    <VehicleOwnerLastName>ООО "НОВОКРАН"</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>AB61D120-4CC0-CF23-F8AB-31B169098822</TaskId>
+    <CaseId>9ADD45FF-A24D-8722-6FBF-237F210D28DD</CaseId>
+    <ClaimNumber>796/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUFPE6DD6C3002457</VIN>
+    <AccidentDateTime>2016-04-08T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О199ВЕ123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra Replacement (Astra J) 11/09-  [V] [93]</ModelName>
+    <CreationDate>2016-04-13T18:56:39.406</CreationDate>
+    <VehicleOwnerLastName>Ильюшечкин Александр Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C304E961-2B62-A7D6-B3DA-42A97FB9F705</TaskId>
+    <CaseId>0109FA96-3E61-F017-DC6E-A79C8FB134E3</CaseId>
+    <ClaimNumber>795/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>3N1FCAC11UK542816</VIN>
+    <AccidentDateTime>2016-04-04T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р668АВ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Tiida/Latio (C11Z) 01/05-  [M] [76]</ModelName>
+    <CreationDate>2016-04-13T17:37:28.448</CreationDate>
+    <VehicleOwnerLastName>Калашникова Татьяна Викторовна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>554EF7FE-5A16-C39B-4DFC-C74DDF221F80</TaskId>
+    <CaseId>A91DACD1-B36E-4370-2096-C63AC897AFAB</CaseId>
+    <ClaimNumber>48_OSAGO_Aprill13_test Audatex</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>aaa№</PolicyNumber>
+    <CreationDate>2016-04-13T15:14:47.606</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>EF583125-3093-CB4A-7547-D8F999A516FC</TaskId>
+    <CaseId>0D1B8F41-3E83-4F7A-AFEE-03490CE61126</CaseId>
+    <ClaimNumber>13 April Test Audatex</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2016-04-01T15:11:00.000</AccidentDateTime>
+    <PlateNumber>111</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (E36) 12/90-03/98 Сед./Купе [V] [M] [24]</ModelName>
+    <PolicyNumber>aaa№4244444</PolicyNumber>
+    <CreationDate>2016-04-13T15:10:20.502</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>341EF4DF-9CEC-C194-E651-AFEB98961222</TaskId>
+    <CaseId>BE9C4E9F-3B5E-68CA-36B8-F2E73A4E25EE</CaseId>
+    <ClaimNumber>3443433444</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>U5YPC811BDL347672</VIN>
+    <AccidentDateTime>2014-11-19T00:00:00.000</AccidentDateTime>
+    <PlateNumber>K025EA123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-04-08T15:26:30.007</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>979525F5-23F3-9E1D-2CD8-F85417701332</TaskId>
+    <CaseId>9F429239-607E-69D2-FADE-D8F8E8C0BEB0</CaseId>
+    <ClaimNumber>TEST_AUDATEX_OSAGO4</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2016-04-01T15:15:00.000</AccidentDateTime>
+    <PlateNumber>11111111111</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>3-Series (E46) 04/99-09/06 Купе/Кабрио [V] [M] [33]</ModelName>
+    <PolicyNumber>11111111111</PolicyNumber>
+    <CreationDate>2016-04-06T15:16:04.516</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>233B6787-1F52-B465-79A5-A0937C2F4061</TaskId>
+    <CaseId>F5F95C55-6473-3640-0BF9-3A153B41080B</CaseId>
+    <ClaimNumber>TEST_AUDATEX_OSAGO3</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2015-04-01T14:36:00.000</AccidentDateTime>
+    <PlateNumber>11111111</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>1111111111</PolicyNumber>
+    <CreationDate>2016-04-06T14:36:04.511</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B04FFA23-05A7-3541-3D5C-C9BCD53D0FE3</TaskId>
+    <CaseId>F9EF3AFD-20DA-9E43-4C95-008B317CE5BB</CaseId>
+    <ClaimNumber>TEST_AUDATEX_OSAGO1</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2015-07-07T13:28:00.000</AccidentDateTime>
+    <PlateNumber>1111111111111</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BL) 03/09-  [M] [48]</ModelName>
+    <PolicyNumber>111111111</PolicyNumber>
+    <CreationDate>2016-04-06T13:27:28.028</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5DE8F00F-B5D4-33E4-D04F-F5A3C8F84FC5</TaskId>
+    <CaseId>9EEB46F0-13DD-DA06-B8D9-E7835B9A4B79</CaseId>
+    <ClaimNumber>TEST_AUDATEX_OSAGO</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <AccidentDateTime>2016-04-02T10:23:00.000</AccidentDateTime>
+    <PlateNumber>1111111111111</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BL) 03/09-  [M] [48]</ModelName>
+    <PolicyNumber>111111111</PolicyNumber>
+    <CreationDate>2016-04-06T10:23:19.537</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A62D5D00-AA02-659C-2D5A-B0EC6528A0C7</TaskId>
+    <CaseId>F1ADC13B-D351-EBF7-029E-61DF5580BD75</CaseId>
+    <ClaimNumber>TEST_AUDATEX</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>11111111111111111</VIN>
+    <PlateNumber>1111111111111</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BL) 03/09-  [M] [48]</ModelName>
+    <PolicyNumber>111111111</PolicyNumber>
+    <CreationDate>2016-04-06T10:19:47.064</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>93B308FA-0346-4ADB-C8FA-9C9E8F119E53</TaskId>
+    <CaseId>B8C90AB9-C7B7-2025-B531-C6AA2D099BEE</CaseId>
+    <ClaimNumber>48_ОСАГО_тест</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-04-05T13:25:48.016</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CBB3B7EB-58EC-73BB-45E1-AF001EC1E651</TaskId>
+    <CaseId>3508FED4-A7F8-EB33-7181-7D1808C42B58</CaseId>
+    <ClaimNumber>48_copy</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <CreationDate>2016-04-05T13:24:25.933</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5C6B20AB-B00D-1463-B019-B78DCB0F2692</TaskId>
+    <CaseId>31B0D845-BB12-F27D-80BB-9967F7849CBC</CaseId>
+    <ClaimNumber>48_Copy</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <CreationDate>2016-04-05T10:47:36.627</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>639EA6FC-CD84-9A3D-8835-A71769AC7185</TaskId>
+    <CaseId>4DEE039C-1A1F-FA0F-65EA-CEC1E790A39B</CaseId>
+    <ClaimNumber>48_jcfu</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-04-04T15:28:10.761</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F133A617-3033-E17C-621B-14FE50EBAC8C</TaskId>
+    <CaseId>292A3FEB-B549-5E9C-8B02-D5BCB17BD05C</CaseId>
+    <ClaimNumber>ОСАГО2_48</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-04-04T12:25:27.896</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5861FEC6-A041-AD1B-2D90-677385378974</TaskId>
+    <CaseId>6EDF5717-BF48-9045-E709-9EFC52D44B15</CaseId>
+    <ClaimNumber>57</ClaimNumber>
+    <TaskStatus>Unlocked</TaskStatus>
+    <VIN>AF351173797511111</VIN>
+    <PlateNumber>БН</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>SA50 - LEAD100 -  [M] [98]</ModelName>
+    <CreationDate>2016-04-03T21:21:07.859</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1C9850A1-206C-EE92-B44D-FCB712EDF39B</TaskId>
+    <CaseId>FABE02CE-0067-D107-898E-5BE640FD5BB8</CaseId>
+    <ClaimNumber>780/2016__</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA21140064204121</VIN>
+    <AccidentDateTime>2016-01-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О013КР163</PlateNumber>
+    <CreationDate>2016-04-01T19:08:33.893</CreationDate>
+    <VehicleOwnerLastName>Мелехин Михаил Викторович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>346A95CB-578F-215B-6F6B-379C5DC71EBD</TaskId>
+    <CaseId>724BC4CF-75A6-4AD0-6538-F9CCCA5A2758</CaseId>
+    <ClaimNumber>№№№_ОСАГО</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CT41DACR186210</VIN>
+    <AccidentDateTime>2015-06-25T00:00:00.000</AccidentDateTime>
+    <PlateNumber>45465</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Golf VI (1K/5K) 05/11-  [V] [M] [CJ]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-04-01T15:06:15.598</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>B0862DB2-01EF-E216-6615-D183ED0ECAE0</TaskId>
+    <CaseId>03606CFA-A684-6DC2-F95F-9EB991DEB20D</CaseId>
+    <ClaimNumber>№№№№_ОСАГО</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZ1KZCW114343</VIN>
+    <AccidentDateTime>2015-06-25T12:00:00.000</AccidentDateTime>
+    <PlateNumber>O221BT123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Golf VI (1K/5K) 05/11-  [V] [M] [CJ]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-03-31T18:22:52.544</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>FAA47A2C-2B28-D18F-1452-93807F1547F6</TaskId>
+    <CaseId>3A1DDC10-9019-9423-FA8F-EEE2C6356754</CaseId>
+    <ClaimNumber>792</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHBT51HP4U246697</VIN>
+    <AccidentDateTime>2015-12-27T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т412ВА123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Getz (TB) 05/02-  [13]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-03-31T11:42:54.321</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A34C76FF-F049-709E-C225-29A402E9BE61</TaskId>
+    <CaseId>6A275C60-4EDA-D3AE-6CFC-A3FBF9C76046</CaseId>
+    <ClaimNumber>793_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>U5YHN812ADL022636</VIN>
+    <AccidentDateTime>2016-03-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В304КО123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Cee?d (JD) 04/12-  [A1]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-03-31T09:12:41.494</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>506003F5-79A3-EE9C-658C-DD0CD815B836</TaskId>
+    <CaseId>74F3516C-C9CC-A1AB-EAF6-8EDF9A3FEBBF</CaseId>
+    <ClaimNumber>791/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X4X5E59400D935590</VIN>
+    <AccidentDateTime>2014-12-23T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р038ОО123</PlateNumber>
+    <ManufacturerName>BMW [V] [R] [01]</ManufacturerName>
+    <ModelName>5-Series (F10) 07/13-  [V] [4A]</ModelName>
+    <CreationDate>2016-03-30T00:50:39.178</CreationDate>
+    <VehicleOwnerLastName>ООО "НОВОКРАН"</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>9F6E6FDC-0FF5-5399-A1D7-533A848C9B63</TaskId>
+    <CaseId>B8105903-04CF-709F-73C2-5919C7B4D5A9</CaseId>
+    <ClaimNumber>789</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JN1TANS50U0001715</VIN>
+    <AccidentDateTime>2016-02-16T12:00:00.000</AccidentDateTime>
+    <PlateNumber>H993EH123</PlateNumber>
+    <ManufacturerName>INFINITI [R] [47]</ManufacturerName>
+    <ModelName>FX35 (USA) (S50) 01/03-12/07  [M] [60]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-03-29T13:00:07.463</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>BDDF0CBC-35AA-5098-1CC7-B9D44E64C4DB</TaskId>
+    <CaseId>0BA7F0AB-ED7C-9EC7-7772-6208D1D86173</CaseId>
+    <ClaimNumber>788</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SJNFAAJ10U2455536</VIN>
+    <AccidentDateTime>2016-02-23T12:00:00.000</AccidentDateTime>
+    <PlateNumber>H096EB123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Qashqai (J10E) 12/06-  [M] [92]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-03-29T11:17:27.086</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>30FB9A49-DC7B-1230-81A5-C9985DE53CFD</TaskId>
+    <CaseId>88C35870-F592-33AF-E59A-1839AFC1C42C</CaseId>
+    <ClaimNumber>48_O</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-03-26T16:49:53.179</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>30301AED-87B6-82F3-5D4C-2D8CBFC6C0A6</TaskId>
+    <CaseId>8DDA4C9E-C515-0545-A2FA-19A4F955971E</CaseId>
+    <ClaimNumber>48 ОСАГО</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-03-26T16:04:03.075</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1980CFC7-0E1E-2854-8F46-0BB30EC1E876</TaskId>
+    <CaseId>22F843D3-8614-8E47-28EC-3896C43B9B00</CaseId>
+    <ClaimNumber>48</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBK12Z571535055</VIN>
+    <AccidentDateTime>2015-07-07T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т511АВ93</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BK) 06/03-  [M] [38]</ModelName>
+    <CreationDate>2016-03-26T15:04:05.135</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2AEE0128-CA29-6FE0-9496-208B8509906F</TaskId>
+    <CaseId>C23DBF8D-1B69-483D-25A7-AB844AD6C9E0</CaseId>
+    <ClaimNumber>№№№1</ClaimNumber>
+    <TaskStatus>Unlocked</TaskStatus>
+    <VIN>WVWZZZ1KZCW114343</VIN>
+    <PlateNumber>O221BT123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Golf VI (1K/5K) 05/11-  [V] [M] [CJ]</ModelName>
+    <CreationDate>2016-03-24T18:47:26.086</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0B3466F1-71B1-C1DE-4380-9B9AE3A07ADA</TaskId>
+    <CaseId>48B772E6-791A-75A9-1C5D-A37119AF56C6</CaseId>
+    <ClaimNumber>786/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>AK121320356111111</VIN>
+    <AccidentDateTime>2016-02-18T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т940МС123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Micra (K12E) 11/02-  [M] [48]</ModelName>
+    <CreationDate>2016-03-21T21:32:45.036</CreationDate>
+    <VehicleOwnerLastName>Шумайлов Денис Анатольевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>68E0788D-7AD9-599B-E8FC-FDE92DA18770</TaskId>
+    <CaseId>2EE95224-9A10-0C39-1472-7743DF902138</CaseId>
+    <ClaimNumber>781/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP5M053886</VIN>
+    <AccidentDateTime>2016-02-27T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н541АТ123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <CreationDate>2016-03-21T13:46:32.279</CreationDate>
+    <VehicleOwnerLastName>Сергеев Юрий Викторович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>94DE3604-B12E-6A9A-2C98-A3FC550DDDA6</TaskId>
+    <CaseId>4991D658-8EE0-F44F-1876-3E4BEAA71CAA</CaseId>
+    <ClaimNumber>783/2016_0</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZ3CZ9E522005</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М748ЕУ123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Passat CC (3C/357) 06/08-  [V] [M] [AP]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-03-20T17:52:31.147</CreationDate>
+    <VehicleOwnerLastName>Яковенко Михаил Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>0045A35D-DFEB-5BA2-029E-D4EB6EEDF89C</TaskId>
+    <CaseId>E05FFF74-55B5-E684-B1AE-B05598CF7795</CaseId>
+    <ClaimNumber>783/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVWZZZ3CZ9E522005</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М748ЕУ123</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Passat CC (3C/357) 06/08-  [V] [M] [AP]</ModelName>
+    <CreationDate>2016-03-20T14:17:10.105</CreationDate>
+    <VehicleOwnerLastName>Яковенко Михаил Владимирович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>64BB85C1-72F0-08E8-C139-CF86319AC206</TaskId>
+    <CaseId>D2668C64-8949-0D96-BAFC-758A7DB40C4B</CaseId>
+    <ClaimNumber>784/2016_осаго</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>GX110-6024410----</VIN>
+    <AccidentDateTime>2016-02-02T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е567ЕТ93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Avensis (T22) 01/98-03/03  [10]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-03-19T19:11:58.232</CreationDate>
+    <VehicleOwnerLastName>Шаронов Владимир Викторович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>13FCC188-2A81-BC38-2FD1-C5C130EE14D1</TaskId>
+    <CaseId>92D2E822-D2AD-E908-FD98-48030530079A</CaseId>
+    <ClaimNumber>784/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>GX110-6024410----</VIN>
+    <AccidentDateTime>2016-02-02T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е567ЕТ93</PlateNumber>
+    <ManufacturerName>TOYOTA [V] [70]</ManufacturerName>
+    <ModelName>Avensis (T22) 01/98-03/03  [10]</ModelName>
+    <CreationDate>2016-03-19T15:51:13.819</CreationDate>
+    <VehicleOwnerLastName>Шаронов Владимир Викторович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>676F526E-54C2-8324-C517-536FA46D4886</TaskId>
+    <CaseId>554DD1A6-8A51-4B1E-7BF8-2456DFF61B2A</CaseId>
+    <ClaimNumber>№№№№</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WAUZZZ4HXCN029009</VIN>
+    <PlateNumber>К335КК93</PlateNumber>
+    <ManufacturerName>AUDI [V] [00]</ManufacturerName>
+    <ModelName>A8/A8 L/S8 (4H) 01/10-  [V] [M] [48]</ModelName>
+    <CreationDate>2016-03-16T16:16:06.215</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3FD0C221-5B90-B36E-378B-774AC09895A9</TaskId>
+    <CaseId>34320809-81F5-07C6-237E-84F3E9267ADD</CaseId>
+    <ClaimNumber>7_8_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTA217030E0455598</VIN>
+    <PlateNumber>A802MX123</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Priora (Sedan/Estate) (2170/2171) 03/07-  [M] [17]</ModelName>
+    <CreationDate>2016-03-14T15:57:51.285</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>43E0EF47-2FA3-0DFB-C045-3F0AA202487B</TaskId>
+    <CaseId>7559DDF7-F004-6FCC-720D-C5CC7D257F68</CaseId>
+    <ClaimNumber>778/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XLRTE47MS0E865324</VIN>
+    <AccidentDateTime>2014-11-12T00:00:00.000</AccidentDateTime>
+    <PlateNumber>ЕР932 23</PlateNumber>
+    <ManufacturerName>DAF [61]</ManufacturerName>
+    <ModelName>Serie XF105 01/06-  [M] [15]</ModelName>
+    <CreationDate>2016-03-06T23:05:08.515</CreationDate>
+    <VehicleOwnerLastName>Чешуйко Светлана Дмитриевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>D5A2D058-9AAB-2598-14CA-56DFF4276D57</TaskId>
+    <CaseId>02ADD2C0-DC01-7B0A-9EBA-5920E71A2555</CaseId>
+    <ClaimNumber>775/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KNAJU815BCK381173</VIN>
+    <AccidentDateTime>2016-02-13T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н210ОС123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Soul (AM) 01/12-  [M] [92]</ModelName>
+    <CreationDate>2016-03-06T21:50:16.114</CreationDate>
+    <VehicleOwnerLastName>Чуб Татьяна Николаевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C751D634-B96E-261E-A464-6E0C5A6DFE8A</TaskId>
+    <CaseId>81D0AC53-6A80-BD96-632A-BD31F4E32AFD</CaseId>
+    <ClaimNumber>774/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBL12Z511555588</VIN>
+    <AccidentDateTime>2016-02-10T00:00:00.000</AccidentDateTime>
+    <PlateNumber>М333МА123</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BL) 03/09-  [M] [48]</ModelName>
+    <CreationDate>2016-03-05T22:30:28.088</CreationDate>
+    <VehicleOwnerLastName>Чуб Марина Викторовна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1C505404-34E9-72C3-9C30-17BF565A03A4</TaskId>
+    <CaseId>6438D9D0-4B7D-39BF-97F8-7C51AE5AF685</CaseId>
+    <ClaimNumber>779/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z8T4C5FS9CM002834</VIN>
+    <AccidentDateTime>2015-09-05T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е353ЕР123</PlateNumber>
+    <ManufacturerName>PEUGEOT [V] [R] [11]</ManufacturerName>
+    <ModelName>308 (4) 10/07-  [V] [M] [48]</ModelName>
+    <CreationDate>2016-03-05T22:09:27.327</CreationDate>
+    <VehicleOwnerLastName>Малыхина Кристина Евгеньевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>ECD0EAD5-DBD4-1D95-A1ED-CEE6BD75D444</TaskId>
+    <CaseId>BE5E36B2-3EE5-3683-96C4-6BF6F6E71D51</CaseId>
+    <ClaimNumber>773/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHJT81VBEU775118</VIN>
+    <AccidentDateTime>2016-02-17T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н633НН23</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>iX35/ Tucson (LM) 03/10-  [M] [35]</ModelName>
+    <CreationDate>2016-03-03T22:38:40.296</CreationDate>
+    <VehicleOwnerLastName>Чуб Татьяна Николаевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A5674BE6-43C0-8858-3942-E7C5B1EBFC0F</TaskId>
+    <CaseId>08400940-2AAA-E0AE-50D5-C4A96A955D33</CaseId>
+    <ClaimNumber>772/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XTAKS0Y5LE0834287</VIN>
+    <AccidentDateTime>2015-07-28T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О925ОВ123</PlateNumber>
+    <ManufacturerName>LADA [R] [09]</ManufacturerName>
+    <ModelName>Largus (R90/F90) 07/12-  [02]</ModelName>
+    <CreationDate>2016-03-03T21:16:24.229</CreationDate>
+    <VehicleOwnerLastName>Нефедов Александр Валерьевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>F8BFB2AB-9F2A-E208-1F3B-80FF016BFC56</TaskId>
+    <CaseId>5E3CCD50-5A93-38D9-3099-AB0470A2962B</CaseId>
+    <ClaimNumber>769/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z6FAXXESMAEP21600</VIN>
+    <AccidentDateTime>2015-08-28T00:00:00.000</AccidentDateTime>
+    <PlateNumber>О871ОВ123</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Kuga (DM2/CBS) 11/12-  [V] [KG]</ModelName>
+    <CreationDate>2016-03-03T12:10:51.709</CreationDate>
+    <VehicleOwnerLastName>Кашин Яков Михайлович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>62AE9B05-007A-BCF4-F88D-F395B8450384</TaskId>
+    <CaseId>B4F4B0FD-D3AA-3279-2617-A7C69B3F6E78</CaseId>
+    <ClaimNumber>763/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>Z94CB41BAFR272947</VIN>
+    <AccidentDateTime>2016-01-13T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х131ОС123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Rio III (UB) 07/11-  [M] [24]</ModelName>
+    <CreationDate>2016-03-02T21:05:32.114</CreationDate>
+    <VehicleOwnerLastName>ООО КТС-2000</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>2E7ECB7C-9785-6011-6A36-15B1CE36F454</TaskId>
+    <CaseId>1D058FD5-CEDD-B364-0371-46BBF9799AB1</CaseId>
+    <ClaimNumber>768/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TSMEXB32S00733052</VIN>
+    <AccidentDateTime>2016-02-16T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е189КМ123</PlateNumber>
+    <ManufacturerName>SUZUKI [R] [50]</ManufacturerName>
+    <ModelName>Splash (A5B31/B41) 05/08-  [M] [15]</ModelName>
+    <CreationDate>2016-03-02T19:10:24.873</CreationDate>
+    <VehicleOwnerLastName>Шумихина Наталья Владимировна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E6E197E9-31A7-8FAA-B1CF-D1F186C5C928</TaskId>
+    <CaseId>D6EA392E-12AB-7651-1FE8-8353D8BC9633</CaseId>
+    <ClaimNumber>Н866НР</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JHMCL96806C210269</VIN>
+    <AccidentDateTime>2015-08-17T18:30:00.000</AccidentDateTime>
+    <PlateNumber>Н866НР161</PlateNumber>
+    <ManufacturerName>HONDA [35]</ManufacturerName>
+    <ModelName>Accord (CL7/9/CM1/2/CN1) 01/03-  [M] [77]</ModelName>
+    <PolicyNumber>ССС1234567890</PolicyNumber>
+    <CreationDate>2016-03-01T22:37:36.360</CreationDate>
+    <VehicleOwnerLastName>Гущина Елена Александровна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5A2CB9D8-E5B1-BABE-45EC-B3596D0E511A</TaskId>
+    <CaseId>979DFFE8-28D5-7EFC-8CD2-2D5562EFA93D</CaseId>
+    <ClaimNumber>20</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WDB9036631R315056</VIN>
+    <AccidentDateTime>2016-02-28T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х577ОТ123</PlateNumber>
+    <ManufacturerName>MERCEDES-BENZ [V] [R] [03]</ManufacturerName>
+    <ModelName>Sprinter (901-904) 07/00-04/06 Фургон/Универс./Mixto [V] [M] [57]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-02-28T12:54:04.872</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>015F90AD-2A37-96A3-7B17-776A7AE7B459</TaskId>
+    <CaseId>36332717-60DE-A009-2D2D-457ECC3E7191</CaseId>
+    <ClaimNumber>765/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7MCF41GP8M161323</VIN>
+    <AccidentDateTime>2008-01-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Х890ОС123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>Accent (LC) 01/00-03/06  [M] [10]</ModelName>
+    <CreationDate>2016-02-26T18:30:57.280</CreationDate>
+    <VehicleOwnerLastName>Халявин Олег Леонидович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>1C7D5467-BDA0-3333-74EA-35E7DF3C9F36</TaskId>
+    <CaseId>529F9237-7734-7C47-3457-CE1BBC2D7666</CaseId>
+    <ClaimNumber>766/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWBMA481JEA508371</VIN>
+    <AccidentDateTime>2015-01-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>К447НО123</PlateNumber>
+    <ManufacturerName>CHEVROLET / DAEWOO [V] [14]</ManufacturerName>
+    <ModelName>Spark/Beat (KL1M (M300)) 03/10-  [V] [M] [32]</ModelName>
+    <CreationDate>2016-02-26T17:20:56.689</CreationDate>
+    <VehicleOwnerLastName>Халявин Олег Леонидович</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>25DEA805-DC41-847D-FA6F-06A610E29771</TaskId>
+    <CaseId>0D130B88-26A8-3414-AF4B-D72A8FBA6B48</CaseId>
+    <ClaimNumber>746</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WVGZZZ1TZCW032240</VIN>
+    <AccidentDateTime>2016-01-12T12:00:00.000</AccidentDateTime>
+    <PlateNumber>В005ХХ93</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Touran (1T3) 08/10-  [V] [M] [CA]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-02-25T12:09:40.321</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3C650AFD-AEF0-E439-AD49-615C41DA342F</TaskId>
+    <CaseId>B23E8DBC-52D1-1AFE-10F1-74A0BA71AD5D</CaseId>
+    <ClaimNumber>762_2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUF0AHL088B002312</VIN>
+    <AccidentDateTime>2016-01-26T12:00:00.000</AccidentDateTime>
+    <PlateNumber>С880КМ93</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra H (GTC/OPC) 03/05-  [V] [61]</ModelName>
+    <PolicyNumber>ССС 0695999299</PolicyNumber>
+    <CreationDate>2016-02-24T20:58:15.730</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>5A51B168-BB43-57C7-A544-7F6D9AFA87F5</TaskId>
+    <CaseId>0CFE0A28-FB3D-4B43-20FE-C83DE3B4EB90</CaseId>
+    <ClaimNumber>761/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>KMHDG41LBCU500159</VIN>
+    <AccidentDateTime>2015-12-05T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н111МЕ123</PlateNumber>
+    <ManufacturerName>HYUNDAI [30]</ManufacturerName>
+    <ModelName>i35/Avante/ Elantra (MD) 01/11-  [M] [32]</ModelName>
+    <CreationDate>2016-02-24T20:13:57.474</CreationDate>
+    <VehicleOwnerLastName>Чешуйко Светлана Дмитриевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>D5106B8C-516F-2F97-FF15-851DEA82A7C3</TaskId>
+    <CaseId>DCD623B8-B670-FE09-BA6A-AD8A3C39C571</CaseId>
+    <ClaimNumber>752/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMBAH43T6C9057491</VIN>
+    <AccidentDateTime>2015-12-21T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Р025РУ93</PlateNumber>
+    <ManufacturerName>SKODA [V] [56]</ManufacturerName>
+    <ModelName>Superb II (3T) 09/08-  [V] [M] [20]</ModelName>
+    <CreationDate>2016-02-24T16:29:51.435</CreationDate>
+    <VehicleOwnerLastName>Клименко Максим Алексеевич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>C0EC9CE7-69AB-E29C-B5E8-61AB99548195</TaskId>
+    <CaseId>613CA73F-43A2-33E9-EFF2-D75640DA10D4</CaseId>
+    <ClaimNumber>754/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>X7L4SPAV451309840</VIN>
+    <AccidentDateTime>2015-01-13T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т842ОА123</PlateNumber>
+    <ManufacturerName>RENAULT [V] [R] [12]</ManufacturerName>
+    <ModelName>Logan II / Logan (TUR production)/ Symbol III (L8) 01/13-  [V] [A6]</ModelName>
+    <CreationDate>2016-02-24T15:32:45.604</CreationDate>
+    <VehicleOwnerLastName>Симонова Ольга Викторовна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>AB78BEEE-7E9F-EAE8-8357-7A76571330C5</TaskId>
+    <CaseId>58081024-9BCD-4C4B-F110-BCA8C87F5559</CaseId>
+    <ClaimNumber>757/2016</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WF0HXXWPDH8D15506</VIN>
+    <AccidentDateTime>2016-01-30T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Н827ОУ93</PlateNumber>
+    <ManufacturerName>FORD [V] [R] [02]</ManufacturerName>
+    <ModelName>Focus (Sedan/Wagon) (DA3/DB3) 01/08-  [V] [M] [AE]</ModelName>
+    <CreationDate>2016-02-24T13:30:52.996</CreationDate>
+    <VehicleOwnerLastName>Кротенко Светлана Андреевна</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>A71363F7-A4C1-9A33-671C-6CA413A1358C</TaskId>
+    <CaseId>A8F96D63-311A-907B-8CD5-79120902EE8D</CaseId>
+    <ClaimNumber>15-11-66</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XWBJF69VJEA040039</VIN>
+    <PlateNumber>B177HM123</PlateNumber>
+    <CreationDate>2016-02-21T22:11:48.800</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>AFE987C8-B960-B3EE-3DE0-01B83E4ECFE4</TaskId>
+    <CaseId>CDE26CAF-DC8F-BF21-6792-BF33E4CAFCD3</CaseId>
+    <ClaimNumber>01</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SJNFBAF15U6495593</VIN>
+    <AccidentDateTime>2015-12-21T12:00:00.000</AccidentDateTime>
+    <PlateNumber>Х554НХ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Juke (Nismo) (F15/F15E) 09/13-  [JN]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-02-21T16:51:57.707</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E2B8D5B5-F2B9-03F6-FF9F-B755B7994BC7</TaskId>
+    <CaseId>10DAF5D0-7C29-569C-12BE-B79D93925933</CaseId>
+    <ClaimNumber>32</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZER16L700245796</VIN>
+    <AccidentDateTime>2015-12-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber> В034ТМ190</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>CX-7 (ER) 10/07-  [M] [47]</ModelName>
+    <CreationDate>2016-02-20T20:40:48.311</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>EE94DC3E-B571-9ECA-10C5-9B2B3E7F693A</TaskId>
+    <CaseId>EAA8DF14-54E2-8CED-16EC-065F69A662C5</CaseId>
+    <ClaimNumber>33</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>XUFPE5DD6E3014363</VIN>
+    <AccidentDateTime>2015-10-23T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е 068 НО 123</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Astra J (4-door) (P-J) 01/13-  [V] [AJ]</ModelName>
+    <CreationDate>2016-02-20T19:20:37.281</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>3DDAD24E-DBC6-7B5C-F58B-C5002D988CE1</TaskId>
+    <CaseId>C01C18E3-1143-B2C9-181E-D80BEFB79E28</CaseId>
+    <ClaimNumber>111222</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>JMZBM42Z231161781</VIN>
+    <AccidentDateTime>2015-09-01T12:00:00.000</AccidentDateTime>
+    <PlateNumber>B658BP134</PlateNumber>
+    <ManufacturerName>MAZDA [36]</ManufacturerName>
+    <ModelName>3 (BM) 07/13-  [68]</ModelName>
+    <PolicyNumber>CCC 7777777777</PolicyNumber>
+    <CreationDate>2016-02-18T15:34:18.147</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>E24201B6-26E7-B2EE-7308-3B3642E069CA</TaskId>
+    <CaseId>7A2C7D8F-3993-50C3-E015-3CC23FEB6F46</CaseId>
+    <ClaimNumber>25</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>TMAEH812BBJ063056</VIN>
+    <AccidentDateTime>2015-07-01T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Е755КН 123</PlateNumber>
+    <ManufacturerName>KIA [R] [28]</ManufacturerName>
+    <ModelName>Venga (YN) 01/10-  [M] [91]</ModelName>
+    <CreationDate>2016-02-14T20:58:10.628</CreationDate>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>CE93EEEA-4204-7BE8-9276-9AD6AD42267B</TaskId>
+    <CaseId>BA41679F-B468-EBE4-E5B3-993B6C49B69A</CaseId>
+    <ClaimNumber>719/2015</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>W0L0XCE7564043574</VIN>
+    <AccidentDateTime>2015-11-06T00:00:00.000</AccidentDateTime>
+    <PlateNumber>С298АЕ93</PlateNumber>
+    <ManufacturerName>OPEL [V] [05]</ManufacturerName>
+    <ModelName>Meriva 02/03-  [V] [56]</ModelName>
+    <CreationDate>2015-11-18T15:40:22.780</CreationDate>
+    <VehicleOwnerLastName>Дзебисашвили Лери Ильич</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>843588DE-C4C6-BEA9-9F5C-52D5C0FD9C2B</TaskId>
+    <CaseId>004782B0-D248-198C-73DF-56851901552F</CaseId>
+    <ClaimNumber>688/2015</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>WV2ZZZ70ZTH230722</VIN>
+    <AccidentDateTime>2015-08-12T00:00:00.000</AccidentDateTime>
+    <PlateNumber>Т665НО23</PlateNumber>
+    <ManufacturerName>VW [V] [06]</ManufacturerName>
+    <ModelName>Transporter T4 (70/7D) 09/90-04/03 Фургон/Универс./Mixto [V] [M] [86]</ModelName>
+    <CreationDate>2015-10-02T12:27:38.618</CreationDate>
+    <VehicleOwnerLastName>ОАО "КРАСНОДАРГАЗСТРОЙ"</VehicleOwnerLastName>
+  </TaskProxy>
+  <TaskProxy>
+    <TaskId>52A96774-FBEA-8443-C262-8CA0A1528B5F</TaskId>
+    <CaseId>DAD258CD-5683-C852-C0C3-69F3DF406034</CaseId>
+    <ClaimNumber>949</ClaimNumber>
+    <TaskStatus>Created</TaskStatus>
+    <VIN>SJNFBAJ11U1095928</VIN>
+    <PlateNumber>M949НУ123</PlateNumber>
+    <ManufacturerName>NISSAN [R] [71]</ManufacturerName>
+    <ModelName>Qashqai (J11E) 09/13-  [9U]</ModelName>
+    <CreationDate>2015-07-17T11:15:57.893</CreationDate>
+  </TaskProxy>
+  <Size>274</Size>
+</TaskProxyList>
